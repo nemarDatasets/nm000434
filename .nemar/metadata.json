@@ -1,0 +1,87 @@
+{
+  "version": "2.0",
+  "pipeline_stage": "validated",
+  "authors": {
+    "Philipp Klocke": {
+      "orcid": "0000-0003-0868-5270"
+    },
+    "Moritz Loeffler": {},
+    "Daniel Weiss": {}
+  },
+  "related_identifiers": [
+    {
+      "identifier": "10.17632/c9ckcvjxc7.1",
+      "identifier_type": "DOI",
+      "relation_type": "IsDerivedFrom"
+    },
+    {
+      "identifier": "https://github.com/nemarDatasets/nm000434",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "https://nemar.org/dataset/nm000434",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    }
+  ],
+  "title": "SenseFOG: subthalamic LFP (Medtronic Percept), EEG/EMG and IMU kinematics during sitting, standing, walking, stopping and freezing of gait in Parkinson's disease",
+  "license": "CC-BY-4.0",
+  "dataset_type": "raw",
+  "resource_type_general": "Dataset",
+  "modalities": [
+    "eeg",
+    "ieeg",
+    "motion"
+  ],
+  "resource_type_specific": "EEG Dataset",
+  "sizes": [
+    "3.20 GB (328 files)"
+  ],
+  "formats": [
+    ".eeg",
+    ".h5",
+    ".json",
+    ".m",
+    ".mat",
+    ".mlx",
+    ".png",
+    ".py",
+    ".tsv",
+    ".txt",
+    ".vhdr",
+    ".vmrk"
+  ],
+  "description": "This dataset contains multimodal recordings from 12 patients with idiopathic Parkinson's disease and bilateral subthalamic nucleus deep brain stimulation (Medtronic Percept PC). Subthalamic local field potentials, 48-channel scalp EEG with surface EMG, and inertial sensor kinematics were recorded during sitting, standing, walking, walking with self-initiated stops and dual-task walking. Recordings were made after overnight withdrawal of dopaminergic medication with stimulation off, to study supraspinal mechanisms of freezing of gait. The data are a BIDS repackaging of a Mendeley Data release.",
+  "methods_description": "Bipolar STN LFPs were streamed from the Percept BrainSense at 250 Hz. Scalp EEG (48 channels) and 8 surface EMG channels were recorded with a Brain Products system at 1000 Hz. Three APDM Opal inertial sensors (lumbar and both legs/feet) recorded at 128 Hz. Participants sat, stood, walked through a narrow corridor, walked with self-initiated stops, and walked with a serial-subtraction dual task.",
+  "keywords": [
+    {
+      "term": "Parkinson Disease",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D010300"
+    },
+    {
+      "term": "Freezing of gait"
+    },
+    {
+      "term": "Subthalamic Nucleus",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D020531"
+    },
+    {
+      "term": "Deep Brain Stimulation",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D046690"
+    },
+    {
+      "term": "local field potential"
+    },
+    {
+      "term": "EEG"
+    },
+    {
+      "term": "EMG"
+    }
+  ],
+  "source_hash": "4315f64072ceaf095faaa8417f57360c01c25dab7ddb3c6c833f505771dbbdce"
+}
