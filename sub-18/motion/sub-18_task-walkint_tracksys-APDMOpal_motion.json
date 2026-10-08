@@ -1,0 +1,18 @@
+{
+  "TaskName": "walkint",
+  "TaskDescription": "Walking under dual-task conditions (serial subtraction), medication OFF, stimulation OFF (release documentation)",
+  "SamplingFrequency": 128.0,
+  "TrackingSystemName": "APDM Opal",
+  "Manufacturer": "APDM",
+  "ManufacturersModelName": "Opal",
+  "RecordingType": "continuous",
+  "RecordingDuration": 210.726562,
+  "MotionChannelCount": 42,
+  "ACCELChannelCount": 9,
+  "GYROChannelCount": 9,
+  "MAGNChannelCount": 9,
+  "ORNTChannelCount": 12,
+  "MISCChannelCount": 3,
+  "TrackedPointsCount": 3,
+  "SoftwareFilters": "n/a"
+}

@@ -1,0 +1,19 @@
+Brain Vision Data Exchange Marker File, Version 1.0
+
+[Common Infos]
+Codepage=UTF-8
+DataFile=PD19_stand.eeg
+
+[Marker Infos]
+; Each entry: Mk<Marker number>=<Type>,<Description>,<Position in data points>,
+; <Size in data points>, <Channel number (0 = marker is related to all channels)>
+; Fields are delimited by commas, some fields might be omitted (empty).
+; Commas in type or description text are coded as "\1".
+Mk1=New Segment,,1,1,0,20110101110635342999
+Mk2=Comment,no USB Connection to actiCAP,21,1,0
+Mk3=Moblab,M  1,1871,1,0
+Mk4=Toggle,T  1_off,64411,1,0
+Mk5=Toggle,T  1_on,64898,1,0
+Mk6=Toggle,T  1_off,126641,1,0
+Mk7=Toggle,T  1_on,127394,1,0
+Mk8=Moblab,M  1,138636,1,0

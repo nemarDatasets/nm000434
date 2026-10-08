@@ -1,0 +1,2893 @@
+{
+ "ieeg": [
+  {
+   "src": "sub-01/ses-sitting/ieeg/sub-01-ses-sitting.json",
+   "stem": "sub-01_task-sitting",
+   "ch": [
+    "ONE_THREE_LEFT",
+    "ONE_THREE_RIGHT"
+   ],
+   "n": 39125,
+   "fs": 250.0,
+   "max_abs_err": 3.0356087449945335e-05,
+   "rt": true
+  },
+  {
+   "src": "sub-01/ses-standing/ieeg/sub-01-ses-standing.json",
+   "stem": "sub-01_task-standing",
+   "ch": [
+    "ONE_THREE_LEFT",
+    "ONE_THREE_RIGHT"
+   ],
+   "n": 34000,
+   "fs": 250.0,
+   "max_abs_err": 2.3662850026084925e-05,
+   "rt": true
+  },
+  {
+   "src": "sub-01/ses-walk/ieeg/sub-01-ses-walk.json",
+   "stem": "sub-01_task-walk",
+   "ch": [
+    "ONE_THREE_LEFT",
+    "ONE_THREE_RIGHT"
+   ],
+   "n": 64937,
+   "fs": 250.0,
+   "max_abs_err": 2.8466443723118573e-05,
+   "rt": true
+  },
+  {
+   "src": "sub-01/ses-walkws/ieeg/sub-01-ses-walkws.json",
+   "stem": "sub-01_task-walkws",
+   "ch": [
+    "ONE_THREE_LEFT",
+    "ONE_THREE_RIGHT"
+   ],
+   "n": 46562,
+   "fs": 250.0,
+   "max_abs_err": 2.90308687453944e-05,
+   "rt": true
+  },
+  {
+   "src": "sub-05/ses-sitting/ieeg/sub-05-ses-sitting.json",
+   "stem": "sub-05_task-sitting",
+   "ch": [
+    "ZERO_THREE_LEFT",
+    "ZERO_TWO_RIGHT"
+   ],
+   "n": 3563,
+   "fs": 250.0,
+   "max_abs_err": 3.9271992235967446e-07,
+   "rt": true
+  },
+  {
+   "src": "sub-05/ses-walkws/ieeg/sub-05-ses-walkws.json",
+   "stem": "sub-05_task-walkws",
+   "ch": [
+    "ZERO_THREE_LEFT",
+    "ZERO_TWO_RIGHT"
+   ],
+   "n": 30687,
+   "fs": 250.0,
+   "max_abs_err": 7.398115627665902e-06,
+   "rt": true
+  },
+  {
+   "src": "sub-09/ses-sitting/ieeg/sub-09-ses-sitting.json",
+   "stem": "sub-09_task-sitting",
+   "ch": [
+    "ONE_THREE_LEFT",
+    "ONE_THREE_RIGHT"
+   ],
+   "n": 38625,
+   "fs": 250.0,
+   "max_abs_err": 0.00010667397509678267,
+   "rt": true
+  },
+  {
+   "src": "sub-09/ses-standing/ieeg/sub-09-ses-standing.json",
+   "stem": "sub-09_task-standing",
+   "ch": [
+    "ONE_THREE_LEFT",
+    "ONE_THREE_RIGHT"
+   ],
+   "n": 33625,
+   "fs": 250.0,
+   "max_abs_err": 0.00011746762493203278,
+   "rt": true
+  },
+  {
+   "src": "sub-09/ses-walk/ieeg/sub-09-ses-walk.json",
+   "stem": "sub-09_task-walk",
+   "ch": [
+    "ONE_THREE_LEFT",
+    "ONE_THREE_RIGHT"
+   ],
+   "n": 62375,
+   "fs": 250.0,
+   "max_abs_err": 0.00010736454987636534,
+   "rt": true
+  },
+  {
+   "src": "sub-09/ses-walkws/ieeg/sub-09-ses-walkws.json",
+   "stem": "sub-09_task-walkws",
+   "ch": [
+    "ONE_THREE_LEFT",
+    "ONE_THREE_RIGHT"
+   ],
+   "n": 45125,
+   "fs": 250.0,
+   "max_abs_err": 0.00011869957506860374,
+   "rt": true
+  },
+  {
+   "src": "sub-11/ses-standing/ieeg/sub-11-ses-standing.json",
+   "stem": "sub-11_task-standing",
+   "ch": [
+    "ONE_THREE_LEFT",
+    "ONE_THREE_RIGHT"
+   ],
+   "n": 37813,
+   "fs": 250.0,
+   "max_abs_err": 2.526682499137678e-05,
+   "rt": true
+  },
+  {
+   "src": "sub-11/ses-walk/ieeg/sub-11-ses-walk.json",
+   "stem": "sub-11_task-walk",
+   "ch": [
+    "ONE_THREE_LEFT",
+    "ONE_THREE_RIGHT"
+   ],
+   "n": 96813,
+   "fs": 250.0,
+   "max_abs_err": 2.9014293772888777e-05,
+   "rt": true
+  },
+  {
+   "src": "sub-11/ses-walkws/ieeg/sub-11-ses-walkws.json",
+   "stem": "sub-11_task-walkws",
+   "ch": [
+    "ONE_THREE_LEFT",
+    "ONE_THREE_RIGHT"
+   ],
+   "n": 56812,
+   "fs": 250.0,
+   "max_abs_err": 2.4569081233494217e-05,
+   "rt": true
+  },
+  {
+   "src": "sub-13/ses-sitting/ieeg/sub-13-ses-sitting.json",
+   "stem": "sub-13_task-sitting",
+   "ch": [
+    "ZERO_TWO_LEFT",
+    "ONE_THREE_RIGHT"
+   ],
+   "n": 37937,
+   "fs": 250.0,
+   "max_abs_err": 0.0001215445499838097,
+   "rt": true
+  },
+  {
+   "src": "sub-13/ses-standing/ieeg/sub-13-ses-standing.json",
+   "stem": "sub-13_task-standing",
+   "ch": [
+    "ZERO_TWO_LEFT",
+    "ONE_THREE_RIGHT"
+   ],
+   "n": 40875,
+   "fs": 250.0,
+   "max_abs_err": 0.00012140050012021675,
+   "rt": true
+  },
+  {
+   "src": "sub-13/ses-walk/ieeg/sub-13-ses-walk.json",
+   "stem": "sub-13_task-walk",
+   "ch": [
+    "ZERO_TWO_LEFT",
+    "ONE_THREE_RIGHT"
+   ],
+   "n": 100687,
+   "fs": 250.0,
+   "max_abs_err": 0.00012128912521802704,
+   "rt": true
+  },
+  {
+   "src": "sub-13/ses-walkint/ieeg/sub-13-ses-walkint.json",
+   "stem": "sub-13_task-walkint",
+   "ch": [
+    "ZERO_TWO_LEFT",
+    "ONE_THREE_RIGHT"
+   ],
+   "n": 101625,
+   "fs": 250.0,
+   "max_abs_err": 0.00012145295022492064,
+   "rt": true
+  },
+  {
+   "src": "sub-13/ses-walkws/ieeg/sub-13-ses-walkws.json",
+   "stem": "sub-13_task-walkws",
+   "ch": [
+    "ZERO_TWO_LEFT",
+    "ONE_THREE_RIGHT"
+   ],
+   "n": 93250,
+   "fs": 250.0,
+   "max_abs_err": 0.00012198835020171828,
+   "rt": true
+  },
+  {
+   "src": "sub-14/ses-sitting/ieeg/sub-14-ses-sitting.json",
+   "stem": "sub-14_task-sitting",
+   "ch": [
+    "ONE_THREE_LEFT",
+    "ONE_THREE_RIGHT"
+   ],
+   "n": 34437,
+   "fs": 250.0,
+   "max_abs_err": 0.00011018467512258212,
+   "rt": true
+  },
+  {
+   "src": "sub-14/ses-standing/ieeg/sub-14-ses-standing.json",
+   "stem": "sub-14_task-standing",
+   "ch": [
+    "ONE_THREE_LEFT",
+    "ONE_THREE_RIGHT"
+   ],
+   "n": 33625,
+   "fs": 250.0,
+   "max_abs_err": 0.00010698217511162511,
+   "rt": true
+  },
+  {
+   "src": "sub-14/ses-walkint/ieeg/sub-14-ses-walkint.json",
+   "stem": "sub-14_task-walkint_run-1",
+   "ch": [
+    "ONE_THREE_LEFT",
+    "ONE_THREE_RIGHT"
+   ],
+   "n": 55188,
+   "fs": 250.0,
+   "max_abs_err": 0.00010026869995272136,
+   "rt": true
+  },
+  {
+   "src": "sub-14/ses-walkint2/ieeg/sub-14-ses-walkint2.json",
+   "stem": "sub-14_task-walkint_run-2",
+   "ch": [
+    "ONE_THREE_LEFT",
+    "ONE_THREE_RIGHT"
+   ],
+   "n": 43500,
+   "fs": 250.0,
+   "max_abs_err": 8.778907522355439e-05,
+   "rt": true
+  },
+  {
+   "src": "sub-14/ses-walkws/ieeg/sub-14-ses-walkws.json",
+   "stem": "sub-14_task-walkws",
+   "ch": [
+    "ONE_THREE_LEFT",
+    "ONE_THREE_RIGHT"
+   ],
+   "n": 50500,
+   "fs": 250.0,
+   "max_abs_err": 0.0001194436249534192,
+   "rt": true
+  },
+  {
+   "src": "sub-15/ses-sitting/ieeg/sub-15-ses-sitting.json",
+   "stem": "sub-15_task-sitting",
+   "ch": [
+    "ONE_THREE_LEFT",
+    "ONE_THREE_RIGHT"
+   ],
+   "n": 31375,
+   "fs": 250.0,
+   "max_abs_err": 0.00012162577513663564,
+   "rt": true
+  },
+  {
+   "src": "sub-15/ses-standing/ieeg/sub-15-ses-standing.json",
+   "stem": "sub-15_task-standing",
+   "ch": [
+    "ONE_THREE_LEFT",
+    "ONE_THREE_RIGHT"
+   ],
+   "n": 76062,
+   "fs": 250.0,
+   "max_abs_err": 0.00012185590003355173,
+   "rt": true
+  },
+  {
+   "src": "sub-15/ses-walk/ieeg/sub-15-ses-walk.json",
+   "stem": "sub-15_task-walk",
+   "ch": [
+    "ONE_THREE_LEFT",
+    "ONE_THREE_RIGHT"
+   ],
+   "n": 86250,
+   "fs": 250.0,
+   "max_abs_err": 0.00012160945016148617,
+   "rt": true
+  },
+  {
+   "src": "sub-15/ses-walkint/ieeg/sub-15-ses-walkint.json",
+   "stem": "sub-15_task-walkint",
+   "ch": [
+    "ONE_THREE_LEFT",
+    "ONE_THREE_RIGHT"
+   ],
+   "n": 69000,
+   "fs": 250.0,
+   "max_abs_err": 0.00011899575019924669,
+   "rt": true
+  },
+  {
+   "src": "sub-15/ses-walkws/ieeg/sub-15-ses-walkws.json",
+   "stem": "sub-15_task-walkws",
+   "ch": [
+    "ONE_THREE_LEFT",
+    "ONE_THREE_RIGHT"
+   ],
+   "n": 64750,
+   "fs": 250.0,
+   "max_abs_err": 0.00012112307513234555,
+   "rt": true
+  },
+  {
+   "src": "sub-17/ses-standing/ieeg/sub-17-ses-standing.json",
+   "stem": "sub-17_task-standing",
+   "ch": [
+    "ONE_THREE_LEFT",
+    "ZERO_TWO_RIGHT"
+   ],
+   "n": 33563,
+   "fs": 250.0,
+   "max_abs_err": 0.00012120907513235579,
+   "rt": true
+  },
+  {
+   "src": "sub-17/ses-walk/ieeg/sub-17-ses-walk.json",
+   "stem": "sub-17_task-walk",
+   "ch": [
+    "ONE_THREE_LEFT",
+    "ZERO_TWO_RIGHT"
+   ],
+   "n": 68812,
+   "fs": 250.0,
+   "max_abs_err": 0.00011714370020854403,
+   "rt": true
+  },
+  {
+   "src": "sub-17/ses-walkws/ieeg/sub-17-ses-walkws.json",
+   "stem": "sub-17_task-walkws",
+   "ch": [
+    "ONE_THREE_LEFT",
+    "ZERO_TWO_RIGHT"
+   ],
+   "n": 59813,
+   "fs": 250.0,
+   "max_abs_err": 0.00011956872504015337,
+   "rt": true
+  },
+  {
+   "src": "sub-18/ses-sitting/ieeg/sub-18-ses-sitting.json",
+   "stem": "sub-18_task-sitting",
+   "ch": [
+    "ONE_THREE_LEFT",
+    "ONE_THREE_RIGHT"
+   ],
+   "n": 34562,
+   "fs": 250.0,
+   "max_abs_err": 0.00011947272514589713,
+   "rt": true
+  },
+  {
+   "src": "sub-18/ses-standing/ieeg/sub-18-ses-standing.json",
+   "stem": "sub-18_task-standing",
+   "ch": [
+    "ONE_THREE_LEFT",
+    "ONE_THREE_RIGHT"
+   ],
+   "n": 34125,
+   "fs": 250.0,
+   "max_abs_err": 0.00011615025005085045,
+   "rt": true
+  },
+  {
+   "src": "sub-18/ses-walk/ieeg/sub-18-ses-walk.json",
+   "stem": "sub-18_task-walk",
+   "ch": [
+    "ONE_THREE_LEFT",
+    "ONE_THREE_RIGHT"
+   ],
+   "n": 70000,
+   "fs": 250.0,
+   "max_abs_err": 0.0001145705750786874,
+   "rt": true
+  },
+  {
+   "src": "sub-18/ses-walkint/ieeg/sub-18-ses-walkint.json",
+   "stem": "sub-18_task-walkint",
+   "ch": [
+    "ONE_THREE_LEFT",
+    "ONE_THREE_RIGHT"
+   ],
+   "n": 50375,
+   "fs": 250.0,
+   "max_abs_err": 0.00012167722479716758,
+   "rt": true
+  },
+  {
+   "src": "sub-19/ses-sitting/ieeg/sub-19-ses-sitting.json",
+   "stem": "sub-19_task-sitting",
+   "ch": [
+    "ZERO_TWO_LEFT",
+    "ZERO_THREE_RIGHT"
+   ],
+   "n": 32125,
+   "fs": 250.0,
+   "max_abs_err": 0.00011730740015991614,
+   "rt": true
+  },
+  {
+   "src": "sub-19/ses-standing/ieeg/sub-19-ses-standing.json",
+   "stem": "sub-19_task-standing",
+   "ch": [
+    "ZERO_TWO_LEFT",
+    "ZERO_THREE_RIGHT"
+   ],
+   "n": 31875,
+   "fs": 250.0,
+   "max_abs_err": 0.00012075140011802432,
+   "rt": true
+  },
+  {
+   "src": "sub-19/ses-walk/ieeg/sub-19-ses-walk.json",
+   "stem": "sub-19_task-walk",
+   "ch": [
+    "ZERO_TWO_LEFT",
+    "ZERO_THREE_RIGHT"
+   ],
+   "n": 53187,
+   "fs": 250.0,
+   "max_abs_err": 0.0001112038248720637,
+   "rt": true
+  },
+  {
+   "src": "sub-19/ses-walkws/ieeg/sub-19-ses-walkws.json",
+   "stem": "sub-19_task-walkws",
+   "ch": [
+    "ZERO_TWO_LEFT",
+    "ZERO_THREE_RIGHT"
+   ],
+   "n": 62000,
+   "fs": 250.0,
+   "max_abs_err": 0.00011509590012792614,
+   "rt": true
+  },
+  {
+   "src": "sub-20/ses-sitting/ieeg/sub-20-ses-sitting.json",
+   "stem": "sub-20_task-sitting",
+   "ch": [
+    "ONE_THREE_LEFT",
+    "ZERO_THREE_RIGHT"
+   ],
+   "n": 32875,
+   "fs": 250.0,
+   "max_abs_err": 5.927443748987571e-05,
+   "rt": true
+  },
+  {
+   "src": "sub-20/ses-standing/ieeg/sub-20-ses-standing.json",
+   "stem": "sub-20_task-standing",
+   "ch": [
+    "ONE_THREE_LEFT",
+    "ZERO_THREE_RIGHT"
+   ],
+   "n": 32312,
+   "fs": 250.0,
+   "max_abs_err": 6.053940001038427e-05,
+   "rt": true
+  },
+  {
+   "src": "sub-20/ses-walk/ieeg/sub-20-ses-walk.json",
+   "stem": "sub-20_task-walk",
+   "ch": [
+    "ONE_THREE_LEFT",
+    "ZERO_THREE_RIGHT"
+   ],
+   "n": 60750,
+   "fs": 250.0,
+   "max_abs_err": 6.0809300066466676e-05,
+   "rt": true
+  },
+  {
+   "src": "sub-20/ses-walkint/ieeg/sub-20-ses-walkint.json",
+   "stem": "sub-20_task-walkint",
+   "ch": [
+    "ONE_THREE_LEFT",
+    "ZERO_THREE_RIGHT"
+   ],
+   "n": 86188,
+   "fs": 250.0,
+   "max_abs_err": 9.198927500619902e-05,
+   "rt": true
+  }
+ ],
+ "eeg": [
+  {
+   "src": "sub-01/ses-sitting/eeg/sub-01-ses-sitting.vhdr",
+   "stem": "sub-01_task-sitting",
+   "old_datafile": "PD01_sitzen.eeg",
+   "nch": 58,
+   "n": 147260,
+   "events": 1,
+   "bytes_identical": true,
+   "rt": true
+  },
+  {
+   "src": "sub-01/ses-standing/eeg/sub-01-ses-standing.vhdr",
+   "stem": "sub-01_task-standing",
+   "old_datafile": "PD01_stehen.eeg",
+   "nch": 58,
+   "n": 140600,
+   "events": 3,
+   "bytes_identical": true,
+   "rt": true
+  },
+  {
+   "src": "sub-01/ses-walk/eeg/sub-01-ses-walk.vhdr",
+   "stem": "sub-01_task-walk",
+   "old_datafile": "PD01_gehen.eeg",
+   "nch": 58,
+   "n": 251580,
+   "events": 39,
+   "bytes_identical": true,
+   "rt": true
+  },
+  {
+   "src": "sub-01/ses-walkws/eeg/sub-01-ses-walkws.vhdr",
+   "stem": "sub-01_task-walkws",
+   "old_datafile": "PD01_gehen_stop.eeg",
+   "nch": 58,
+   "n": 183440,
+   "events": 29,
+   "bytes_identical": true,
+   "rt": true
+  },
+  {
+   "src": "sub-05/ses-sitting/eeg/sub-05-ses-sitting.vhdr",
+   "stem": "sub-05_task-sitting",
+   "old_datafile": "PD05_sit.eeg",
+   "nch": 58,
+   "n": 133720,
+   "events": 31,
+   "bytes_identical": true,
+   "rt": true
+  },
+  {
+   "src": "sub-05/ses-walkws/eeg/sub-05-ses-walkws.vhdr",
+   "stem": "sub-05_task-walkws",
+   "old_datafile": "PD05_walkwstopps.eeg",
+   "nch": 58,
+   "n": 118380,
+   "events": 42,
+   "bytes_identical": true,
+   "rt": true
+  },
+  {
+   "src": "sub-09/ses-sitting/eeg/sub-09-ses-sitting.vhdr",
+   "stem": "sub-09_task-sitting",
+   "old_datafile": "PD09_sit.eeg",
+   "nch": 58,
+   "n": 152540,
+   "events": 41,
+   "bytes_identical": true,
+   "rt": true
+  },
+  {
+   "src": "sub-09/ses-standing/eeg/sub-09-ses-standing.vhdr",
+   "stem": "sub-09_task-standing",
+   "old_datafile": "PD09_stand.eeg",
+   "nch": 58,
+   "n": 169180,
+   "events": 5,
+   "bytes_identical": true,
+   "rt": true
+  },
+  {
+   "src": "sub-09/ses-walk/eeg/sub-09-ses-walk.vhdr",
+   "stem": "sub-09_task-walk",
+   "old_datafile": "PD09_walk.eeg",
+   "nch": 58,
+   "n": 273580,
+   "events": 51,
+   "bytes_identical": true,
+   "rt": true
+  },
+  {
+   "src": "sub-09/ses-walkws/eeg/sub-09-ses-walkws.vhdr",
+   "stem": "sub-09_task-walkws",
+   "old_datafile": "PD09_walkwstopp.eeg",
+   "nch": 58,
+   "n": 195240,
+   "events": 37,
+   "bytes_identical": true,
+   "rt": true
+  },
+  {
+   "src": "sub-11/ses-sitting/eeg/sub-11-ses-sitting.vhdr",
+   "stem": "sub-11_task-sitting",
+   "old_datafile": "PD11_sit.eeg",
+   "nch": 58,
+   "n": 176180,
+   "events": 3,
+   "bytes_identical": true,
+   "rt": true
+  },
+  {
+   "src": "sub-11/ses-standing/eeg/sub-11-ses-standing.vhdr",
+   "stem": "sub-11_task-standing",
+   "old_datafile": "PD11_stand.eeg",
+   "nch": 58,
+   "n": 167400,
+   "events": 3,
+   "bytes_identical": true,
+   "rt": true
+  },
+  {
+   "src": "sub-11/ses-walk/eeg/sub-11-ses-walk.vhdr",
+   "stem": "sub-11_task-walk",
+   "old_datafile": "PD11_walk.eeg",
+   "nch": 58,
+   "n": 405320,
+   "events": 41,
+   "bytes_identical": true,
+   "rt": true
+  },
+  {
+   "src": "sub-11/ses-walkws/eeg/sub-11-ses-walkws.vhdr",
+   "stem": "sub-11_task-walkws",
+   "old_datafile": "PD11_walkwstopps.eeg",
+   "nch": 58,
+   "n": 254620,
+   "events": 37,
+   "bytes_identical": true,
+   "rt": true
+  },
+  {
+   "src": "sub-13/ses-sitting/eeg/sub-13-ses-sitting.vhdr",
+   "stem": "sub-13_task-sitting",
+   "old_datafile": "PD13_sit.eeg",
+   "nch": 58,
+   "n": 159940,
+   "events": 11,
+   "bytes_identical": true,
+   "rt": true
+  },
+  {
+   "src": "sub-13/ses-standing/eeg/sub-13-ses-standing.vhdr",
+   "stem": "sub-13_task-standing",
+   "old_datafile": "PD13_stand.eeg",
+   "nch": 58,
+   "n": 170940,
+   "events": 15,
+   "bytes_identical": true,
+   "rt": true
+  },
+  {
+   "src": "sub-13/ses-walk/eeg/sub-13-ses-walk.vhdr",
+   "stem": "sub-13_task-walk",
+   "old_datafile": "PD13_walk.eeg",
+   "nch": 58,
+   "n": 425260,
+   "events": 119,
+   "bytes_identical": true,
+   "rt": true
+  },
+  {
+   "src": "sub-13/ses-walkint/eeg/sub-13-ses-walkint.vhdr",
+   "stem": "sub-13_task-walkint",
+   "old_datafile": "PD13_interference2.eeg",
+   "nch": 58,
+   "n": 424800,
+   "events": 143,
+   "bytes_identical": true,
+   "rt": true
+  },
+  {
+   "src": "sub-13/ses-walkws/eeg/sub-13-ses-walkws.vhdr",
+   "stem": "sub-13_task-walkws",
+   "old_datafile": "PD13_walkwstopps.eeg",
+   "nch": 58,
+   "n": 394600,
+   "events": 101,
+   "bytes_identical": true,
+   "rt": true
+  },
+  {
+   "src": "sub-14/ses-sitting/eeg/sub-14-ses-sitting.vhdr",
+   "stem": "sub-14_task-sitting",
+   "old_datafile": "PD14_sit_echt.eeg",
+   "nch": 58,
+   "n": 158280,
+   "events": 239,
+   "bytes_identical": true,
+   "rt": true
+  },
+  {
+   "src": "sub-14/ses-standing/eeg/sub-14-ses-standing.vhdr",
+   "stem": "sub-14_task-standing",
+   "old_datafile": "PD14_stand.eeg",
+   "nch": 58,
+   "n": 150100,
+   "events": 5,
+   "bytes_identical": true,
+   "rt": true
+  },
+  {
+   "src": "sub-14/ses-walkint/eeg/sub-14-ses-walkint.vhdr",
+   "stem": "sub-14_task-walkint_run-1",
+   "old_datafile": "PD14_interfere.eeg",
+   "nch": 58,
+   "n": 237640,
+   "events": 191,
+   "bytes_identical": true,
+   "rt": true
+  },
+  {
+   "src": "sub-14/ses-walkint2/eeg/sub-14-ses-walkint2.vhdr",
+   "stem": "sub-14_task-walkint_run-2",
+   "old_datafile": "PD14_interfere2.eeg",
+   "nch": 58,
+   "n": 193560,
+   "events": 167,
+   "bytes_identical": true,
+   "rt": true
+  },
+  {
+   "src": "sub-14/ses-walkws/eeg/sub-14-ses-walkws.vhdr",
+   "stem": "sub-14_task-walkws",
+   "old_datafile": "PD14_walkwsstopps.eeg",
+   "nch": 58,
+   "n": 219980,
+   "events": 163,
+   "bytes_identical": true,
+   "rt": true
+  },
+  {
+   "src": "sub-15/ses-sitting/eeg/sub-15-ses-sitting.vhdr",
+   "stem": "sub-15_task-sitting",
+   "old_datafile": "PD15_sit.eeg",
+   "nch": 58,
+   "n": 134920,
+   "events": 3,
+   "bytes_identical": true,
+   "rt": true
+  },
+  {
+   "src": "sub-15/ses-standing/eeg/sub-15-ses-standing.vhdr",
+   "stem": "sub-15_task-standing",
+   "old_datafile": "PD15_stand.eeg",
+   "nch": 58,
+   "n": 140020,
+   "events": 3,
+   "bytes_identical": true,
+   "rt": true
+  },
+  {
+   "src": "sub-15/ses-walk/eeg/sub-15-ses-walk.vhdr",
+   "stem": "sub-15_task-walk",
+   "old_datafile": "PD_walk.eeg",
+   "nch": 58,
+   "n": 326140,
+   "events": 101,
+   "bytes_identical": true,
+   "rt": true
+  },
+  {
+   "src": "sub-15/ses-walkint/eeg/sub-15-ses-walkint.vhdr",
+   "stem": "sub-15_task-walkint",
+   "old_datafile": "PD15_interfere.eeg",
+   "nch": 58,
+   "n": 291760,
+   "events": 51,
+   "bytes_identical": true,
+   "rt": true
+  },
+  {
+   "src": "sub-15/ses-walkws/eeg/sub-15-ses-walkws.vhdr",
+   "stem": "sub-15_task-walkws",
+   "old_datafile": "PD15_WWS.eeg",
+   "nch": 58,
+   "n": 274120,
+   "events": 25,
+   "bytes_identical": true,
+   "rt": true
+  },
+  {
+   "src": "sub-17/ses-sitting/eeg/sub-17-ses-sitting.vhdr",
+   "stem": "sub-17_task-sitting",
+   "old_datafile": "PD17_sit_2.eeg",
+   "nch": 58,
+   "n": 152220,
+   "events": 5,
+   "bytes_identical": true,
+   "rt": true
+  },
+  {
+   "src": "sub-17/ses-standing/eeg/sub-17-ses-standing.vhdr",
+   "stem": "sub-17_task-standing",
+   "old_datafile": "PD17_stand.eeg",
+   "nch": 58,
+   "n": 143400,
+   "events": 40,
+   "bytes_identical": true,
+   "rt": true
+  },
+  {
+   "src": "sub-17/ses-walk/eeg/sub-17-ses-walk.vhdr",
+   "stem": "sub-17_task-walk",
+   "old_datafile": "PD17_walk.eeg",
+   "nch": 58,
+   "n": 291700,
+   "events": 208,
+   "bytes_identical": true,
+   "rt": true
+  },
+  {
+   "src": "sub-17/ses-walkws/eeg/sub-17-ses-walkws.vhdr",
+   "stem": "sub-17_task-walkws",
+   "old_datafile": "PD17_wws2.eeg",
+   "nch": 58,
+   "n": 253940,
+   "events": 194,
+   "bytes_identical": true,
+   "rt": true
+  },
+  {
+   "src": "sub-18/ses-sitting/eeg/sub-18-ses-sitting.vhdr",
+   "stem": "sub-18_task-sitting",
+   "old_datafile": "PD18_sit.eeg",
+   "nch": 58,
+   "n": 156420,
+   "events": 3,
+   "bytes_identical": true,
+   "rt": true
+  },
+  {
+   "src": "sub-18/ses-standing/eeg/sub-18-ses-standing.vhdr",
+   "stem": "sub-18_task-standing",
+   "old_datafile": "PD18_stand.eeg",
+   "nch": 58,
+   "n": 149760,
+   "events": 15,
+   "bytes_identical": true,
+   "rt": true
+  },
+  {
+   "src": "sub-18/ses-walk/eeg/sub-18-ses-walk.vhdr",
+   "stem": "sub-18_task-walk",
+   "old_datafile": "PD18_walk.eeg",
+   "nch": 58,
+   "n": 298160,
+   "events": 370,
+   "bytes_identical": true,
+   "rt": true
+  },
+  {
+   "src": "sub-18/ses-walkint/eeg/sub-18-ses-walkint.vhdr",
+   "stem": "sub-18_task-walkint",
+   "old_datafile": "PD18_interfere.eeg",
+   "nch": 58,
+   "n": 214380,
+   "events": 184,
+   "bytes_identical": true,
+   "rt": true
+  },
+  {
+   "src": "sub-19/ses-sitting/eeg/sub-19-ses-sitting.vhdr",
+   "stem": "sub-19_task-sitting",
+   "old_datafile": "PD19_sit.eeg",
+   "nch": 58,
+   "n": 144080,
+   "events": 3,
+   "bytes_identical": true,
+   "rt": true
+  },
+  {
+   "src": "sub-19/ses-standing/eeg/sub-19-ses-standing.vhdr",
+   "stem": "sub-19_task-standing",
+   "old_datafile": "PD19_stand.eeg",
+   "nch": 58,
+   "n": 142760,
+   "events": 7,
+   "bytes_identical": true,
+   "rt": true
+  },
+  {
+   "src": "sub-19/ses-walk/eeg/sub-19-ses-walk.vhdr",
+   "stem": "sub-19_task-walk",
+   "old_datafile": "PD19_walk.eeg",
+   "nch": 58,
+   "n": 233120,
+   "events": 175,
+   "bytes_identical": true,
+   "rt": true
+  },
+  {
+   "src": "sub-19/ses-walkws/eeg/sub-19-ses-walkws.vhdr",
+   "stem": "sub-19_task-walkws",
+   "old_datafile": "PD19_wws.eeg",
+   "nch": 58,
+   "n": 270100,
+   "events": 193,
+   "bytes_identical": true,
+   "rt": true
+  },
+  {
+   "src": "sub-20/ses-sitting/eeg/sub-20-ses-sitting.vhdr",
+   "stem": "sub-20_task-sitting",
+   "old_datafile": "PD20_sit.eeg",
+   "nch": 58,
+   "n": 140880,
+   "events": 5,
+   "bytes_identical": true,
+   "rt": true
+  },
+  {
+   "src": "sub-20/ses-standing/eeg/sub-20-ses-standing.vhdr",
+   "stem": "sub-20_task-standing",
+   "old_datafile": "PD20_stand.eeg",
+   "nch": 58,
+   "n": 141300,
+   "events": 11,
+   "bytes_identical": true,
+   "rt": true
+  },
+  {
+   "src": "sub-20/ses-walk/eeg/sub-20-ses-walk.vhdr",
+   "stem": "sub-20_task-walk",
+   "old_datafile": "PD20_walk.eeg",
+   "nch": 58,
+   "n": 262460,
+   "events": 261,
+   "bytes_identical": true,
+   "rt": true
+  },
+  {
+   "src": "sub-20/ses-walkint/eeg/sub-20-ses-walkint.vhdr",
+   "stem": "sub-20_task-walkint",
+   "old_datafile": "PD20_interfere.eeg",
+   "nch": 58,
+   "n": 359480,
+   "events": 225,
+   "bytes_identical": true,
+   "rt": true
+  }
+ ],
+ "motion": [
+  {
+   "src": "sub-01/ses-standing/motion/sub-01-ses-standing.h5",
+   "stem": "sub-01_task-standing",
+   "n": 17058,
+   "ncol": 42,
+   "sensors": [
+    "Lumbar",
+    "Left Leg",
+    "Right Leg"
+   ],
+   "rt": true
+  },
+  {
+   "src": "sub-01/ses-walk/motion/sub-01-ses-walk.h5",
+   "stem": "sub-01_task-walk",
+   "n": 30944,
+   "ncol": 42,
+   "sensors": [
+    "Lumbar",
+    "Left Leg",
+    "Right Leg"
+   ],
+   "rt": true
+  },
+  {
+   "src": "sub-01/ses-walkws/motion/sub-01-ses-walkws.h5",
+   "stem": "sub-01_task-walkws",
+   "n": 22251,
+   "ncol": 42,
+   "sensors": [
+    "Lumbar",
+    "Left Leg",
+    "Right Leg"
+   ],
+   "rt": true
+  },
+  {
+   "src": "sub-05/ses-sitting/motion/sub-05-ses-sitting.h5",
+   "stem": "sub-05_task-sitting",
+   "n": 15190,
+   "ncol": 42,
+   "sensors": [
+    "Right Foot",
+    "Left Foot",
+    "Lumbar"
+   ],
+   "rt": true
+  },
+  {
+   "src": "sub-05/ses-walkws/motion/sub-05-ses-walkws.h5",
+   "stem": "sub-05_task-walkws",
+   "n": 14443,
+   "ncol": 42,
+   "sensors": [
+    "Right Foot",
+    "Left Foot",
+    "Lumbar"
+   ],
+   "rt": true
+  },
+  {
+   "src": "sub-09/ses-sitting/motion/sub-09-ses-sitting.h5",
+   "stem": "sub-09_task-sitting",
+   "n": 17331,
+   "ncol": 42,
+   "sensors": [
+    "Lumbar",
+    "Left Leg",
+    "Right Leg"
+   ],
+   "rt": true
+  },
+  {
+   "src": "sub-09/ses-standing/motion/sub-09-ses-standing.h5",
+   "stem": "sub-09_task-standing",
+   "n": 18203,
+   "ncol": 42,
+   "sensors": [
+    "Lumbar",
+    "Left Leg",
+    "Right Leg"
+   ],
+   "rt": true
+  },
+  {
+   "src": "sub-09/ses-walk/motion/sub-09-ses-walk.h5",
+   "stem": "sub-09_task-walk",
+   "n": 33010,
+   "ncol": 42,
+   "sensors": [
+    "Lumbar",
+    "Left Leg",
+    "Right Leg"
+   ],
+   "rt": true
+  },
+  {
+   "src": "sub-09/ses-walkws/motion/sub-09-ses-walkws.h5",
+   "stem": "sub-09_task-walkws",
+   "n": 23331,
+   "ncol": 42,
+   "sensors": [
+    "Lumbar",
+    "Left Leg",
+    "Right Leg"
+   ],
+   "rt": true
+  },
+  {
+   "src": "sub-10/ses-sitting/motion/sub-10-ses-sitting.h5",
+   "stem": "sub-10_task-sitting",
+   "n": 23833,
+   "ncol": 42,
+   "sensors": [
+    "Left Leg",
+    "Right Leg",
+    "Lumbar"
+   ],
+   "rt": true
+  },
+  {
+   "src": "sub-11/ses-sitting/motion/sub-11-ses-sitting.h5",
+   "stem": "sub-11_task-sitting",
+   "n": 21930,
+   "ncol": 42,
+   "sensors": [
+    "Left Leg",
+    "Right Leg",
+    "Lumbar"
+   ],
+   "rt": true
+  },
+  {
+   "src": "sub-11/ses-standing/motion/sub-11-ses-standing.h5",
+   "stem": "sub-11_task-standing",
+   "n": 20780,
+   "ncol": 42,
+   "sensors": [
+    "Left Leg",
+    "Right Leg",
+    "Lumbar"
+   ],
+   "rt": true
+  },
+  {
+   "src": "sub-11/ses-walk/motion/sub-11-ses-walk.h5",
+   "stem": "sub-11_task-walk",
+   "n": 50852,
+   "ncol": 42,
+   "sensors": [
+    "Left Leg",
+    "Right Leg",
+    "Lumbar"
+   ],
+   "rt": true
+  },
+  {
+   "src": "sub-11/ses-walkws/motion/sub-11-ses-walkws.h5",
+   "stem": "sub-11_task-walkws",
+   "n": 30361,
+   "ncol": 42,
+   "sensors": [
+    "Left Leg",
+    "Right Leg",
+    "Lumbar"
+   ],
+   "rt": true
+  },
+  {
+   "src": "sub-13/ses-walk/motion/sub-13-ses-walk.h5",
+   "stem": "sub-13_task-walk",
+   "n": 53131,
+   "ncol": 42,
+   "sensors": [
+    "Lumbar",
+    "Left Leg",
+    "Right Leg"
+   ],
+   "rt": true
+  },
+  {
+   "src": "sub-13/ses-walkint/motion/sub-13-ses-walkint.h5",
+   "stem": "sub-13_task-walkint",
+   "n": 52608,
+   "ncol": 42,
+   "sensors": [
+    "Lumbar",
+    "Left Leg",
+    "Right Leg"
+   ],
+   "rt": true
+  },
+  {
+   "src": "sub-13/ses-walkws/motion/sub-13-ses-walkws.h5",
+   "stem": "sub-13_task-walkws",
+   "n": 49362,
+   "ncol": 42,
+   "sensors": [
+    "Lumbar",
+    "Left Leg",
+    "Right Leg"
+   ],
+   "rt": true
+  },
+  {
+   "src": "sub-14/ses-sitting/motion/sub-14-ses-sitting.h5",
+   "stem": "sub-14_task-sitting",
+   "n": 18583,
+   "ncol": 42,
+   "sensors": [
+    "Right Leg",
+    "Lumbar",
+    "Left Leg"
+   ],
+   "rt": true
+  },
+  {
+   "src": "sub-14/ses-standing/motion/sub-14-ses-standing.h5",
+   "stem": "sub-14_task-standing",
+   "n": 17938,
+   "ncol": 42,
+   "sensors": [
+    "Right Leg",
+    "Lumbar",
+    "Left Leg"
+   ],
+   "rt": true
+  },
+  {
+   "src": "sub-14/ses-walkint/motion/sub-14-ses-walkint.h5",
+   "stem": "sub-14_task-walkint_run-1",
+   "n": 29424,
+   "ncol": 42,
+   "sensors": [
+    "Right Leg",
+    "Lumbar",
+    "Left Leg"
+   ],
+   "rt": true
+  },
+  {
+   "src": "sub-14/ses-walkint2/motion/sub-14-ses-walkint2.h5",
+   "stem": "sub-14_task-walkint_run-2",
+   "n": 23940,
+   "ncol": 42,
+   "sensors": [
+    "Right Leg",
+    "Lumbar",
+    "Left Leg"
+   ],
+   "rt": true
+  },
+  {
+   "src": "sub-14/ses-walkws/motion/sub-14-ses-walkws.h5",
+   "stem": "sub-14_task-walkws",
+   "n": 27247,
+   "ncol": 42,
+   "sensors": [
+    "Right Leg",
+    "Lumbar",
+    "Left Leg"
+   ],
+   "rt": true
+  },
+  {
+   "src": "sub-15/ses-sitting/motion/sub-15-ses-sitting.h5",
+   "stem": "sub-15_task-sitting",
+   "n": 16025,
+   "ncol": 42,
+   "sensors": [
+    "Lumbar",
+    "Right Leg",
+    "Left Leg"
+   ],
+   "rt": true
+  },
+  {
+   "src": "sub-15/ses-standing/motion/sub-15-ses-standing.h5",
+   "stem": "sub-15_task-standing",
+   "n": 16867,
+   "ncol": 42,
+   "sensors": [
+    "Lumbar",
+    "Right Leg",
+    "Left Leg"
+   ],
+   "rt": true
+  },
+  {
+   "src": "sub-15/ses-walk/motion/sub-15-ses-walk.h5",
+   "stem": "sub-15_task-walk",
+   "n": 40618,
+   "ncol": 42,
+   "sensors": [
+    "Lumbar",
+    "Right Leg",
+    "Left Leg"
+   ],
+   "rt": true
+  },
+  {
+   "src": "sub-15/ses-walkint/motion/sub-15-ses-walkint.h5",
+   "stem": "sub-15_task-walkint",
+   "n": 36579,
+   "ncol": 42,
+   "sensors": [
+    "Left Leg",
+    "Right Leg",
+    "Lumbar"
+   ],
+   "rt": true
+  },
+  {
+   "src": "sub-15/ses-walkws/motion/sub-15-ses-walkws.h5",
+   "stem": "sub-15_task-walkws",
+   "n": 34334,
+   "ncol": 42,
+   "sensors": [
+    "Left Leg",
+    "Right Leg",
+    "Lumbar"
+   ],
+   "rt": true
+  },
+  {
+   "src": "sub-17/ses-sitting/motion/sub-17-ses-sitting.h5",
+   "stem": "sub-17_task-sitting",
+   "n": 18829,
+   "ncol": 42,
+   "sensors": [
+    "Left Leg",
+    "Right Leg",
+    "Lumbar"
+   ],
+   "rt": true
+  },
+  {
+   "src": "sub-17/ses-standing/motion/sub-17-ses-standing.h5",
+   "stem": "sub-17_task-standing",
+   "n": 17591,
+   "ncol": 42,
+   "sensors": [
+    "Left Leg",
+    "Right Leg",
+    "Lumbar"
+   ],
+   "rt": true
+  },
+  {
+   "src": "sub-17/ses-walk/motion/sub-17-ses-walk.h5",
+   "stem": "sub-17_task-walk",
+   "n": 36557,
+   "ncol": 42,
+   "sensors": [
+    "Left Leg",
+    "Right Leg",
+    "Lumbar"
+   ],
+   "rt": true
+  },
+  {
+   "src": "sub-17/ses-walkws/motion/sub-17-ses-walkws.h5",
+   "stem": "sub-17_task-walkws",
+   "n": 31666,
+   "ncol": 42,
+   "sensors": [
+    "Right Leg",
+    "Left Leg",
+    "Lumbar"
+   ],
+   "rt": true
+  },
+  {
+   "src": "sub-18/ses-sitting/motion/sub-18-ses-sitting.h5",
+   "stem": "sub-18_task-sitting",
+   "n": 18824,
+   "ncol": 42,
+   "sensors": [
+    "Right Leg",
+    "Lumbar",
+    "Left Leg"
+   ],
+   "rt": true
+  },
+  {
+   "src": "sub-18/ses-standing/motion/sub-18-ses-standing.h5",
+   "stem": "sub-18_task-standing",
+   "n": 18224,
+   "ncol": 42,
+   "sensors": [
+    "Right Leg",
+    "Lumbar",
+    "Left Leg"
+   ],
+   "rt": true
+  },
+  {
+   "src": "sub-18/ses-walk/motion/sub-18-ses-walk.h5",
+   "stem": "sub-18_task-walk",
+   "n": 37198,
+   "ncol": 42,
+   "sensors": [
+    "Right Leg",
+    "Lumbar",
+    "Left Leg"
+   ],
+   "rt": true
+  },
+  {
+   "src": "sub-18/ses-walkint/motion/sub-18-ses-walkint.h5",
+   "stem": "sub-18_task-walkint",
+   "n": 26973,
+   "ncol": 42,
+   "sensors": [
+    "Right Leg",
+    "Lumbar",
+    "Left Leg"
+   ],
+   "rt": true
+  },
+  {
+   "src": "sub-19/ses-sitting/motion/sub-19-ses-sitting.h5",
+   "stem": "sub-19_task-sitting",
+   "n": 17595,
+   "ncol": 42,
+   "sensors": [
+    "Lumbar",
+    "Left Leg",
+    "Right Leg"
+   ],
+   "rt": true
+  },
+  {
+   "src": "sub-19/ses-standing/motion/sub-19-ses-standing.h5",
+   "stem": "sub-19_task-standing",
+   "n": 17521,
+   "ncol": 42,
+   "sensors": [
+    "Lumbar",
+    "Left Leg",
+    "Right Leg"
+   ],
+   "rt": true
+  },
+  {
+   "src": "sub-19/ses-walk/motion/sub-19-ses-walk.h5",
+   "stem": "sub-19_task-walk",
+   "n": 29134,
+   "ncol": 42,
+   "sensors": [
+    "Lumbar",
+    "Left Leg",
+    "Right Leg"
+   ],
+   "rt": true
+  },
+  {
+   "src": "sub-19/ses-walkws/motion/sub-19-ses-walkws.h5",
+   "stem": "sub-19_task-walkws",
+   "n": 33643,
+   "ncol": 42,
+   "sensors": [
+    "Lumbar",
+    "Left Leg",
+    "Right Leg"
+   ],
+   "rt": true
+  },
+  {
+   "src": "sub-20/ses-sitting/motion/sub-20-ses-sitting.h5",
+   "stem": "sub-20_task-sitting",
+   "n": 17294,
+   "ncol": 42,
+   "sensors": [
+    "Lumbar",
+    "Left Leg",
+    "Right Leg"
+   ],
+   "rt": true
+  },
+  {
+   "src": "sub-20/ses-standing/motion/sub-20-ses-standing.h5",
+   "stem": "sub-20_task-standing",
+   "n": 17321,
+   "ncol": 42,
+   "sensors": [
+    "Lumbar",
+    "Left Leg",
+    "Right Leg"
+   ],
+   "rt": true
+  },
+  {
+   "src": "sub-20/ses-walk/motion/sub-20-ses-walk.h5",
+   "stem": "sub-20_task-walk",
+   "n": 32807,
+   "ncol": 42,
+   "sensors": [
+    "Lumbar",
+    "Left Leg",
+    "Right Leg"
+   ],
+   "rt": true
+  },
+  {
+   "src": "sub-20/ses-walkint/motion/sub-20-ses-walkint.h5",
+   "stem": "sub-20_task-walkint",
+   "n": 45281,
+   "ncol": 42,
+   "sensors": [
+    "Lumbar",
+    "Left Leg",
+    "Right Leg"
+   ],
+   "rt": true
+  }
+ ],
+ "sourcedata": [
+  {
+   "file": "Table & Figures/GaitCycleSchematic.png",
+   "action": "copy",
+   "sha256_src": "8310a6925019de55e7aa3db7ff9bd41d7d2508c9907056e738463caaa034ab64"
+  },
+  {
+   "file": "Table & Figures/customcolormap/pretty_examples.mlx",
+   "action": "copy",
+   "sha256_src": "24226e6f1920386f07e6c7452f33a9f9c5acca7bbbe2fde1111506d40b23e68a"
+  },
+  {
+   "file": "Table & Figures/customcolormap/customcolormap.m",
+   "action": "copy",
+   "sha256_src": "1ffce05f72287cf183475d0dd3b85901595753956cb992114ead1c80614a42bb"
+  },
+  {
+   "file": "Table & Figures/customcolormap/customcolormap_preset.m",
+   "action": "copy",
+   "sha256_src": "a3e8c896be49bd2a9124bd3f9596f276847f50f336c25160f12981917ad85859"
+  },
+  {
+   "file": "Table & Figures/customcolormap/example.mlx",
+   "action": "copy",
+   "sha256_src": "dc9f399b2385cdb6ca455be15f82ec52bfce382156e65f83050ee20541d25c8f"
+  },
+  {
+   "file": "Table & Figures/customcolormap/license.txt",
+   "action": "copy",
+   "sha256_src": "56d5d27bbd03df2a75d4022409407ac0c87f72b8fcb9b33e9d9d11f9f9e6b089"
+  },
+  {
+   "file": "sub-20/ses-walkint/eeg/sub-20-ses-walkint.eeg",
+   "action": "copy",
+   "sha256_src": "cebcae51d0133f142e250181181629d0831d1b79bead20cf15fc1e5a705289c1"
+  },
+  {
+   "file": "sub-20/ses-walkint/eeg/sub-20-ses-walkint.vmrk",
+   "action": "text_scrub dates=1",
+   "sha256_src": "3e3f28148da7523dad22311a95d13f3eec73879901c0005c92f0fe6e8b82bd8c"
+  },
+  {
+   "file": "sub-20/ses-walkint/eeg/sub-20-ses-walkint.vhdr",
+   "action": "text_scrub dates=0",
+   "sha256_src": "646a1f41c20233e018bb9f1355e682318222d5cbde0b6e96b36b45c626b62aef"
+  },
+  {
+   "file": "sub-20/ses-walkint/motion/sub-20-ses-walkint_gaitfilt_cor.mat",
+   "action": "mat_scrub header=True dates=0 numeric_equal=2466",
+   "sha256_src": "f78af7bd38da8558f4bf9dd9b4c08ab85c79c11ae528d4b91e2eff5a76331add"
+  },
+  {
+   "file": "sub-20/ses-walkint/motion/sub-20-ses-walkint.h5",
+   "action": "h5_time_shift_days=13",
+   "sha256_src": "d296a94e1fab67158e4d33576a0ff4a4c8a2596fe4ac8820c403cf91903450a9"
+  },
+  {
+   "file": "sub-20/ses-walkint/ieeg/sub-20-ses-walkint.json",
+   "action": "percept_scrub dates=105 groupnames=0",
+   "sha256_src": "c05137622b2d5f8dcaff62530bd4372f27fded98baf1534510f1bcbec221f256"
+  },
+  {
+   "file": "sub-20/ses-sitting/eeg/sub-20-ses-sitting.vmrk",
+   "action": "text_scrub dates=1",
+   "sha256_src": "35fa0bcd58fbb68fcba1d39f7263e75b9cf1555aa974e2e699be2b695cc9250a"
+  },
+  {
+   "file": "sub-20/ses-sitting/eeg/sub-20-ses-sitting.eeg",
+   "action": "copy",
+   "sha256_src": "ac8f7a83936d4ca47b059c552ae4c256e3739468f053f5238b159b009eeb0d3a"
+  },
+  {
+   "file": "sub-20/ses-sitting/eeg/sub-20-ses-sitting.vhdr",
+   "action": "text_scrub dates=0",
+   "sha256_src": "aea1c2ad1b797fce0a6137e9966e77b821c4469269a59c7d58d5418de7061314"
+  },
+  {
+   "file": "sub-20/ses-sitting/motion/sub-20-ses-sitting.h5",
+   "action": "h5_time_shift_days=13",
+   "sha256_src": "b13e039affa20774a9c8aad37d4c82e8b743864f5a51dd9b7a97e3c5842baad9"
+  },
+  {
+   "file": "sub-20/ses-sitting/ieeg/sub-20-ses-sitting.json",
+   "action": "percept_scrub dates=90 groupnames=0",
+   "sha256_src": "23d52530815acd0f384af1dfda67bb6daafdb8d8b17982511b7a6e25892f9bac"
+  },
+  {
+   "file": "sub-20/ses-standing/eeg/sub-20-ses-standing.eeg",
+   "action": "copy",
+   "sha256_src": "f785458ccb67d7eaab565d11bbb0ac89295edbeff5287c18a08de14129926744"
+  },
+  {
+   "file": "sub-20/ses-standing/eeg/sub-20-ses-standing.vmrk",
+   "action": "text_scrub dates=1",
+   "sha256_src": "4d0f7c3c60b97613ae09c4dec563ccf4aed40dd92ac308d7bbfd0e48165082bf"
+  },
+  {
+   "file": "sub-20/ses-standing/eeg/sub-20-ses-standing.vhdr",
+   "action": "text_scrub dates=0",
+   "sha256_src": "743cc923edeba46edc3081c3026b99bbb3840a6c02ccb3bc441be3bb1529dcb1"
+  },
+  {
+   "file": "sub-20/ses-standing/motion/sub-20-ses-standing.h5",
+   "action": "h5_time_shift_days=13",
+   "sha256_src": "5019aa675cae5dfd5ca36532d89867f44555a0c9c4e86f4681b0768d8f126399"
+  },
+  {
+   "file": "sub-20/ses-standing/ieeg/sub-20-ses-standing.json",
+   "action": "percept_scrub dates=93 groupnames=0",
+   "sha256_src": "a738ea2d2a676f9f459a3245e8dd27cd0eceaea0941b34f583325461aa185208"
+  },
+  {
+   "file": "sub-20/ses-walk/eeg/sub-20-ses-walk.vhdr",
+   "action": "text_scrub dates=0",
+   "sha256_src": "cfb9da9281928790c3c2d0e55353e73a5b35323a94dde9cc068659bf97f61a68"
+  },
+  {
+   "file": "sub-20/ses-walk/eeg/sub-20-ses-walk.eeg",
+   "action": "copy",
+   "sha256_src": "e94f03af885884329f3d631c7f087e393c2dfa2ac6cedd5940355a0a286c5810"
+  },
+  {
+   "file": "sub-20/ses-walk/eeg/sub-20-ses-walk.vmrk",
+   "action": "text_scrub dates=1",
+   "sha256_src": "db3c1a377e0f3c4280fc8017c87ad8cdb55e358a3475d36cb242f83cda87e663"
+  },
+  {
+   "file": "sub-20/ses-walk/motion/sub-20-ses-walk.h5",
+   "action": "h5_time_shift_days=13",
+   "sha256_src": "ef8cc2dd44bb5cf82ab8898bc7e38549bde8c788a8a5767436304a65f552f77e"
+  },
+  {
+   "file": "sub-20/ses-walk/motion/sub-20-ses-walk_gaitfilt_cor.mat",
+   "action": "mat_scrub header=True dates=0 numeric_equal=2484",
+   "sha256_src": "3da78e35bc93ec06571e46cc416a23d8bfc4ed451c1d8635a63873f6d30b63f9"
+  },
+  {
+   "file": "sub-20/ses-walk/ieeg/sub-20-ses-walk.json",
+   "action": "percept_scrub dates=97 groupnames=0",
+   "sha256_src": "78e01692fc27e74c7e17b672b02b123b7df4d74f54963f9082ae301fc79ee233"
+  },
+  {
+   "file": "Time-Frequency-Data/placeholder.txt",
+   "action": "copy",
+   "sha256_src": "b4ea5ce774c6d0e9ea76e04244db64cc139e84b6ba9b83c0a8fbb93014e5c6c9"
+  },
+  {
+   "file": "sub-15/ses-walkint/eeg/sub-15-ses-walkint.vhdr",
+   "action": "text_scrub dates=0",
+   "sha256_src": "f176ad91f0dea7262984296dc30b832cb50f049c082b1b9215d8f14d44fa5394"
+  },
+  {
+   "file": "sub-15/ses-walkint/eeg/sub-15-ses-walkint.vmrk",
+   "action": "text_scrub dates=1",
+   "sha256_src": "9dac716036ede22e6bcb67864dec4de5eae6e94905e53214d43591b6f7f078d1"
+  },
+  {
+   "file": "sub-15/ses-walkint/eeg/sub-15-ses-walkint.eeg",
+   "action": "copy",
+   "sha256_src": "8ff7dcf2377df1a7464a00f055bd97c9639aaf78288734ba4f9b9a7dee574506"
+  },
+  {
+   "file": "sub-15/ses-walkint/motion/sub-15-ses-walkint.h5",
+   "action": "h5_time_shift_days=9",
+   "sha256_src": "c3c58986978bc9877896bf99e0f38b6ca59f6673eb0bf91d22b22935d9eb87e1"
+  },
+  {
+   "file": "sub-15/ses-walkint/motion/sub-15-ses-walkint_gaitfilt_cor.mat",
+   "action": "mat_scrub header=True dates=0 numeric_equal=2382",
+   "sha256_src": "87583357fa6e16a568e6fa19a4ede67943e64cd9eb52af30cfdb5285bc330ea0"
+  },
+  {
+   "file": "sub-15/ses-walkint/ieeg/sub-15-ses-walkint.json",
+   "action": "percept_scrub dates=156 groupnames=0",
+   "sha256_src": "605886ab10a0e01255fe324230b2f37e310193a650e77dfb553f8278573496fa"
+  },
+  {
+   "file": "sub-15/ses-sitting/eeg/sub-15-ses-sitting.eeg",
+   "action": "copy",
+   "sha256_src": "af2f480bcc9cbe1b1af6aa3b1d77219df3ff5dcb49a3d92043c7cf5528f50705"
+  },
+  {
+   "file": "sub-15/ses-sitting/eeg/sub-15-ses-sitting.vmrk",
+   "action": "text_scrub dates=1",
+   "sha256_src": "b02b5c72ffa3425dd0e77029ecb3b3854f222762ede8c28881812f3c4a6b4955"
+  },
+  {
+   "file": "sub-15/ses-sitting/eeg/sub-15-ses-sitting.vhdr",
+   "action": "text_scrub dates=0",
+   "sha256_src": "3f9539cb288b748911606ba7e24c18d30d0ecbf5b5578c75eba4ed6d134525ff"
+  },
+  {
+   "file": "sub-15/ses-sitting/motion/sub-15-ses-sitting.h5",
+   "action": "h5_time_shift_days=9",
+   "sha256_src": "7f3604485bb8ce4b85f9f0d2a643df27104e474e80da3b99333649e70581d5a0"
+  },
+  {
+   "file": "sub-15/ses-sitting/ieeg/sub-15-ses-sitting.json",
+   "action": "percept_scrub dates=139 groupnames=0",
+   "sha256_src": "79c5d081b257bb14526ef8e3afa10d3e76e302f68dba5e894324dcbabc5f1198"
+  },
+  {
+   "file": "sub-15/ses-standing/eeg/sub-15-ses-standing.vhdr",
+   "action": "text_scrub dates=0",
+   "sha256_src": "8703acfb95e0c025e9ffc2f1ed6ccdf5e054c76a7c575032d9d8dadfcd0bd697"
+  },
+  {
+   "file": "sub-15/ses-standing/eeg/sub-15-ses-standing.vmrk",
+   "action": "text_scrub dates=1",
+   "sha256_src": "e0a1f015611a590bfcfc3fbc249e185264dc59991eed7f5591cc0dab2c8b83e6"
+  },
+  {
+   "file": "sub-15/ses-standing/eeg/sub-15-ses-standing.eeg",
+   "action": "copy",
+   "sha256_src": "588ca744e4fe1bfd5cd4f0535ea845f3e813d7752775bd6c55f4ca7273260977"
+  },
+  {
+   "file": "sub-15/ses-standing/motion/sub-15-ses-standing.h5",
+   "action": "h5_time_shift_days=9",
+   "sha256_src": "4429773ca4990e6fd9527ee41ef3b80a921603c719ee74ed66b7e54be454dcc7"
+  },
+  {
+   "file": "sub-15/ses-standing/ieeg/sub-15-ses-standing.json",
+   "action": "percept_scrub dates=142 groupnames=0",
+   "sha256_src": "1e425a74c6c83b4f57a0cdf81786c79db4a77234da20d54c2d3f94f44d10ddbc"
+  },
+  {
+   "file": "sub-15/ses-walk/eeg/sub-15-ses-walk.vhdr",
+   "action": "text_scrub dates=0",
+   "sha256_src": "15544740ec23f1af1d65d6c12e1c1d59bcce511fbca45dfcd8d69bb08a86f15f"
+  },
+  {
+   "file": "sub-15/ses-walk/eeg/sub-15-ses-walk.vmrk",
+   "action": "text_scrub dates=1",
+   "sha256_src": "62917131538eea6d3db7e297d1888ed16a9554b3b7762c402bf007747a798cd3"
+  },
+  {
+   "file": "sub-15/ses-walk/eeg/sub-15-ses-walk.eeg",
+   "action": "copy",
+   "sha256_src": "9d28bd0e5208457776aa3b7882abca0ca1480c597a3a6bd3b4ad3fc93789a3b2"
+  },
+  {
+   "file": "sub-15/ses-walk/motion/sub-15-ses-walk_gaitfilt_cor.mat",
+   "action": "mat_scrub header=True dates=0 numeric_equal=2826",
+   "sha256_src": "36d42ed139ffa5ae6700dd6e9f678c7cbef7f8dbbd577c002d01cd2a4a29627e"
+  },
+  {
+   "file": "sub-15/ses-walk/motion/sub-15-ses-walk.h5",
+   "action": "h5_time_shift_days=9",
+   "sha256_src": "ead872d9e65230c4258a2b4c908b8565f534103d6c1667dc32e2831c6f52f155"
+  },
+  {
+   "file": "sub-15/ses-walk/ieeg/sub-15-ses-walk.json",
+   "action": "percept_scrub dates=146 groupnames=0",
+   "sha256_src": "e3b7c32c0bc7960588f47172426ae8afaf987309817340c56251c6fdc56e1d01"
+  },
+  {
+   "file": "sub-15/ses-walkws/eeg/sub-15-ses-walkws.vmrk",
+   "action": "text_scrub dates=1",
+   "sha256_src": "051fe53eed827d07141d232ea6dde655581a1db010fbba435827b2924dd68815"
+  },
+  {
+   "file": "sub-15/ses-walkws/eeg/sub-15-ses-walkws.vhdr",
+   "action": "text_scrub dates=0",
+   "sha256_src": "a4fb732849d1d9f2d17eb981aade915bb2079ea152ce86168938e268779bb625"
+  },
+  {
+   "file": "sub-15/ses-walkws/eeg/sub-15-ses-walkws.eeg",
+   "action": "copy",
+   "sha256_src": "c0cac05fe4fc4fc60fcc287f4c3ac1ad8ce36588636555c8dbb84715282f8271"
+  },
+  {
+   "file": "sub-15/ses-walkws/motion/sub-15-ses-walkws.h5",
+   "action": "h5_time_shift_days=9",
+   "sha256_src": "91baabeb3b6b51d4757c59830ca86aa62dac7c699d10f77789ed2f642137cb0e"
+  },
+  {
+   "file": "sub-15/ses-walkws/motion/sub-15-ses-walkws_gaitfilt_cor.mat",
+   "action": "mat_scrub header=True dates=0 numeric_equal=1812",
+   "sha256_src": "72536127d757e0500cb7d304343708b1c0c177bdad823017cbf86e0f5b57e7ef"
+  },
+  {
+   "file": "sub-15/ses-walkws/ieeg/sub-15-ses-walkws.json",
+   "action": "percept_scrub dates=152 groupnames=0",
+   "sha256_src": "42b9bb4e1aacd5974a47f285b3146d17e44126a2734e7a0114731c77a320ca39"
+  },
+  {
+   "file": "sub-11/ses-sitting/eeg/sub-11-ses-sitting.vmrk",
+   "action": "text_scrub dates=1",
+   "sha256_src": "72f009511734799e394d7a48706f6931c144cef99a949eb54e89d0d3522a8cc5"
+  },
+  {
+   "file": "sub-11/ses-sitting/eeg/sub-11-ses-sitting.vhdr",
+   "action": "text_scrub dates=0",
+   "sha256_src": "844373091e0087802e0ff820b472a7e75a8c521c30473633240b4254d877d3a9"
+  },
+  {
+   "file": "sub-11/ses-sitting/eeg/sub-11-ses-sitting.eeg",
+   "action": "copy",
+   "sha256_src": "55480833b2ba4b590f522d157dc762a2db3ff00dcd9b89eb362f2d1f74fcadd2"
+  },
+  {
+   "file": "sub-11/ses-sitting/motion/sub-11-ses-sitting.h5",
+   "action": "h5_time_shift_days=2",
+   "sha256_src": "849110179aa4c48460bcb46a8088e3b16f6a78d4daece5df6a7b365df00e68ba"
+  },
+  {
+   "file": "sub-11/ses-sitting/ieeg/sub-11-ses-sitting_lfpalg.mat",
+   "action": "mat_scrub header=True dates=0 numeric_equal=63456",
+   "sha256_src": "af8862294c29b7eef271d6118ce1cefba9d0097892bed08d950ba7db2e81dd6c"
+  },
+  {
+   "file": "sub-11/ses-sitting/ieeg/sub-11-ses-sitting.json",
+   "action": "percept_scrub dates=101 groupnames=0",
+   "sha256_src": "ecb754696b92a75702776ffbf183a546d8cdbfe154af133f513b4233e6868266"
+  },
+  {
+   "file": "sub-11/ses-standing/eeg/sub-11-ses-standing.eeg",
+   "action": "copy",
+   "sha256_src": "74fd6582dd6847e01d5d206357362b88e491574a14748e1a4c0eba63d37b4ff1"
+  },
+  {
+   "file": "sub-11/ses-standing/eeg/sub-11-ses-standing.vhdr",
+   "action": "text_scrub dates=0",
+   "sha256_src": "51c25444fa5f5bd120da5a300edd43fa45ba55b42edaa7cc9f50ca9b065fad8d"
+  },
+  {
+   "file": "sub-11/ses-standing/eeg/sub-11-ses-standing.vmrk",
+   "action": "text_scrub dates=1",
+   "sha256_src": "5cd028152aac3c8f127d5e0378ce6902eda49c10ca809cf097f55eff5ace9961"
+  },
+  {
+   "file": "sub-11/ses-standing/motion/sub-11-ses-standing.h5",
+   "action": "h5_time_shift_days=2",
+   "sha256_src": "7aea105f0bb164c1279edce27aedc57184557fd77fb74cc5427b46c6531c4d10"
+  },
+  {
+   "file": "sub-11/ses-standing/ieeg/sub-11-ses-standing.json",
+   "action": "percept_scrub dates=82 groupnames=0",
+   "sha256_src": "14f6364e3e1c3483f9aa43947126f2a29f370a3f13e5eb2de5fdcb40f22114a8"
+  },
+  {
+   "file": "sub-11/ses-walk/eeg/sub-11-ses-walk.vhdr",
+   "action": "text_scrub dates=0",
+   "sha256_src": "7193831ae05c457e24786befbf1931c715469cf9007cb64233debaeddfd9ed26"
+  },
+  {
+   "file": "sub-11/ses-walk/eeg/sub-11-ses-walk.vmrk",
+   "action": "text_scrub dates=1",
+   "sha256_src": "79954c1478ae0bbd6a1823cc512354ee806443276f770884feed74102ce56ff9"
+  },
+  {
+   "file": "sub-11/ses-walk/eeg/sub-11-ses-walk.eeg",
+   "action": "copy",
+   "sha256_src": "bff896b57a5b0eb9a8b3f25f73d17ce97cfbb38c8d86777276c3e99387b95e93"
+  },
+  {
+   "file": "sub-11/ses-walk/motion/sub-11-ses-walk.h5",
+   "action": "h5_time_shift_days=2",
+   "sha256_src": "4d66a16baab8d8075542e0b972ddc52400a210a55c52058cec7a49945840bb46"
+  },
+  {
+   "file": "sub-11/ses-walk/motion/sub-11-ses-walk_gaitfilt_cor.mat",
+   "action": "mat_scrub header=True dates=0 numeric_equal=2142",
+   "sha256_src": "cc0a36bcf534f9f65036ecd162f888070bd0ed1eb9ef76567bd522111e1339a7"
+  },
+  {
+   "file": "sub-11/ses-walk/ieeg/sub-11-ses-walk.json",
+   "action": "percept_scrub dates=85 groupnames=0",
+   "sha256_src": "5abd41677bd35d6e1045a3431e21c0fc3a92dde358dcf4cdfbcd073e7183e015"
+  },
+  {
+   "file": "sub-11/ses-walkws/eeg/sub-11-ses-walkws.vhdr",
+   "action": "text_scrub dates=0",
+   "sha256_src": "29067f4470b68c3b58bdee4f9b2d9b7511907cb5d48a0f4f4c54b0027f5ba1b0"
+  },
+  {
+   "file": "sub-11/ses-walkws/eeg/sub-11-ses-walkws.eeg",
+   "action": "copy",
+   "sha256_src": "e0d3c30ebd42033e0e437069801be70a3e0b39ef7e9d35804b1301641388e668"
+  },
+  {
+   "file": "sub-11/ses-walkws/eeg/sub-11-ses-walkws.vmrk",
+   "action": "text_scrub dates=1",
+   "sha256_src": "7288b9d105506e6aa88a7ccf5089ff5c25ec3554174d739aeb131bc2b3a02a6a"
+  },
+  {
+   "file": "sub-11/ses-walkws/motion/sub-11-ses-walkws.h5",
+   "action": "h5_time_shift_days=2",
+   "sha256_src": "29116c8a79705e1a810ad0b9755376491fe72c5fb755056ac50993f4f2026890"
+  },
+  {
+   "file": "sub-11/ses-walkws/motion/sub-11-ses-walkws_gaitfilt_cor.mat",
+   "action": "mat_scrub header=True dates=0 numeric_equal=1086",
+   "sha256_src": "86af5494424659f9cc80288bbe838e96bd2a30db4b8687b3c09a10a34c10f099"
+  },
+  {
+   "file": "sub-11/ses-walkws/ieeg/sub-11-ses-walkws.json",
+   "action": "percept_scrub dates=89 groupnames=0",
+   "sha256_src": "df75ae745d5c3f6c3b4994214ce49ddc06fb343abd3cf36bebe5c568f72a9c7b"
+  },
+  {
+   "file": "sub-18/ses-walkint/eeg/sub-18-ses-walkint.vmrk",
+   "action": "text_scrub dates=1",
+   "sha256_src": "ea4a5f81f26911c11bf90955bb9b2a05de871b49df22561f0e0a4460b1dfe5f9"
+  },
+  {
+   "file": "sub-18/ses-walkint/eeg/sub-18-ses-walkint.vhdr",
+   "action": "text_scrub dates=0",
+   "sha256_src": "3616aa189edc4d2b0135afcdcf989e51b4d71e730cb989a999d69bebd7dee19a"
+  },
+  {
+   "file": "sub-18/ses-walkint/eeg/sub-18-ses-walkint.eeg",
+   "action": "copy",
+   "sha256_src": "b3c5f93214e8d015c2797397ec7c1e49319bea017b29d56db9ab995aa40be537"
+  },
+  {
+   "file": "sub-18/ses-walkint/motion/sub-18-ses-walkint_gaitfilt_cor.mat",
+   "action": "mat_scrub header=True dates=0 numeric_equal=1440",
+   "sha256_src": "6994361937ef9fac13b7edca7224c7411ccbd87ef33e15c2d96ce88aaeab29b4"
+  },
+  {
+   "file": "sub-18/ses-walkint/motion/sub-18-ses-walkint.h5",
+   "action": "h5_time_shift_days=9",
+   "sha256_src": "8fa2bee6fd7a150f9c4b4498d414fbb4c4721c72b5b6301ed96ea2a624144ceb"
+  },
+  {
+   "file": "sub-18/ses-walkint/ieeg/sub-18-ses-walkint.json",
+   "action": "percept_scrub dates=80 groupnames=0",
+   "sha256_src": "699556428cfb3cd62480e4d39e6a8bff4ff4d8ec576430e68744b8fa742cb074"
+  },
+  {
+   "file": "sub-18/ses-sitting/eeg/sub-18-ses-sitting.vhdr",
+   "action": "text_scrub dates=0",
+   "sha256_src": "bf4557b7d92b21911fbd8671af632bc32acdda654f4141d8603759792fb07555"
+  },
+  {
+   "file": "sub-18/ses-sitting/eeg/sub-18-ses-sitting.eeg",
+   "action": "copy",
+   "sha256_src": "15330763d29783388e2583266de1c7cea739c66537cbe685830ec9c013d80d5d"
+  },
+  {
+   "file": "sub-18/ses-sitting/eeg/sub-18-ses-sitting.vmrk",
+   "action": "text_scrub dates=1",
+   "sha256_src": "ca94ac53c98fe389b9b48dbea6a9d36143e9f4e3b8e14002b3d02bac2cdaccf6"
+  },
+  {
+   "file": "sub-18/ses-sitting/motion/sub-18-ses-sitting.h5",
+   "action": "h5_time_shift_days=9",
+   "sha256_src": "f7e905a02765d544567d8c4f96dc3d85136116f69146df07144f52b0c352340d"
+  },
+  {
+   "file": "sub-18/ses-sitting/ieeg/sub-18-ses-sitting.json",
+   "action": "percept_scrub dates=85 groupnames=0",
+   "sha256_src": "af18b0aa4cb24189d5145c26a2b4c5030751667175d93ff039ee0bc4a4c0e24f"
+  },
+  {
+   "file": "sub-18/ses-standing/eeg/sub-18-ses-standing.vhdr",
+   "action": "text_scrub dates=0",
+   "sha256_src": "bf938d549c148096d72541a8036320e79ffec44707bf7d297ff67bda59c8ba88"
+  },
+  {
+   "file": "sub-18/ses-standing/eeg/sub-18-ses-standing.vmrk",
+   "action": "text_scrub dates=1",
+   "sha256_src": "42f8e3ad549d5f57102099423e630c1beb687df52d4b7765143c9f9ebb3fcf2e"
+  },
+  {
+   "file": "sub-18/ses-standing/eeg/sub-18-ses-standing.eeg",
+   "action": "copy",
+   "sha256_src": "a747f9e7409bd693d3fa5c9b351b2280cc8f3564b6eab02f2d2fb9d203f3c05f"
+  },
+  {
+   "file": "sub-18/ses-standing/motion/sub-18-ses-standing.h5",
+   "action": "h5_time_shift_days=9",
+   "sha256_src": "f49deaa6958b03f6734dc33effd1fa568562125f4f0e41b135de57f27fb216a9"
+  },
+  {
+   "file": "sub-18/ses-standing/ieeg/sub-18-ses-standing.json",
+   "action": "percept_scrub dates=68 groupnames=0",
+   "sha256_src": "31ed96260919425f76e7b54ef8d79d2ca018ffa7b54b03a2e4e586eae6ff8c0d"
+  },
+  {
+   "file": "sub-18/ses-walk/eeg/sub-18-ses-walk.vmrk",
+   "action": "text_scrub dates=1",
+   "sha256_src": "8c25b4a8e091df9b16b0c82db059d7927255e263283de5e9c7c97dc70efb6023"
+  },
+  {
+   "file": "sub-18/ses-walk/eeg/sub-18-ses-walk.eeg",
+   "action": "copy",
+   "sha256_src": "97cbf2cae0e529872a8fbf73f3d063d46407128b1157898997f36a03f7ea9a74"
+  },
+  {
+   "file": "sub-18/ses-walk/eeg/sub-18-ses-walk.vhdr",
+   "action": "text_scrub dates=0",
+   "sha256_src": "ad7f585331124e8a5777247f73c06ff81966fc8be0b2dc76e34fd701ff7b0a96"
+  },
+  {
+   "file": "sub-18/ses-walk/motion/sub-18-ses-walk.h5",
+   "action": "h5_time_shift_days=9",
+   "sha256_src": "d3f2223e4dacc33e08844c72cce9dddd77c8f66bf530b45405894d4aee3f7c97"
+  },
+  {
+   "file": "sub-18/ses-walk/motion/sub-18-ses-walk_gaitfilt_cor.mat",
+   "action": "mat_scrub header=True dates=0 numeric_equal=2436",
+   "sha256_src": "277d36453452851a94c19a48ca0bf5f260033267d9ece1d40f6c82740a292868"
+  },
+  {
+   "file": "sub-18/ses-walk/ieeg/sub-18-ses-walk.json",
+   "action": "percept_scrub dates=72 groupnames=0",
+   "sha256_src": "75f407f1dccdbdf7bc94f4dc47969f149e16127e8a28b8af63f0c53236a48408"
+  },
+  {
+   "file": "sub-01/ses-sitting/eeg/sub-01-ses-sitting.vhdr",
+   "action": "text_scrub dates=0",
+   "sha256_src": "560fccbf0c0b4ffa694725c897273c47364423a3ccc8bbc7a7cd2aa450087972"
+  },
+  {
+   "file": "sub-01/ses-sitting/eeg/sub-01-ses-sitting.eeg",
+   "action": "copy",
+   "sha256_src": "c2c88179016266df8a98d455dadf19f4e9f26c5c40af404a965b54cc46cf60d8"
+  },
+  {
+   "file": "sub-01/ses-sitting/eeg/sub-01-ses-sitting.vmrk",
+   "action": "text_scrub dates=1",
+   "sha256_src": "1e2cf31b2d13af42fd892468b2269addc1e4219a902949035b3aa06c3f93fead"
+  },
+  {
+   "file": "sub-01/ses-sitting/ieeg/sub-01-ses-sitting.json",
+   "action": "percept_scrub dates=86 groupnames=0",
+   "sha256_src": "90013b789451017826290547a8940e09ece63ac588ac94326ba6f827c48ef888"
+  },
+  {
+   "file": "sub-01/ses-standing/eeg/sub-01-ses-standing.eeg",
+   "action": "copy",
+   "sha256_src": "8a5c21358a098cf54e9ccfced3333e2da5e4b22bff3697c74e6df0f1bf06d655"
+  },
+  {
+   "file": "sub-01/ses-standing/eeg/sub-01-ses-standing.vmrk",
+   "action": "text_scrub dates=1",
+   "sha256_src": "d89db4c678e1594a2300c07fef4b65523d704fb5d0253d792d4e6d9c6b639d10"
+  },
+  {
+   "file": "sub-01/ses-standing/eeg/sub-01-ses-standing.vhdr",
+   "action": "text_scrub dates=0",
+   "sha256_src": "9ce0056d3a06270ed369e3b2278bc817d9bc50980b41d5500a74e3d79d2cde7f"
+  },
+  {
+   "file": "sub-01/ses-standing/motion/sub-01-ses-standing.h5",
+   "action": "h5_time_shift_days=11",
+   "sha256_src": "f1e317d83eaf31838b46d40b865f694d09f874b78dbdedbe890393afe711e530"
+  },
+  {
+   "file": "sub-01/ses-standing/ieeg/sub-01-ses-standing.json",
+   "action": "percept_scrub dates=90 groupnames=0",
+   "sha256_src": "dcc4e9d74456942d98d71112cca91343a52f90b0fc8b5edd2cfe0e75cca38751"
+  },
+  {
+   "file": "sub-01/ses-walk/eeg/sub-01-ses-walk.vmrk",
+   "action": "text_scrub dates=1",
+   "sha256_src": "b766c0b1d87abf0193e40c1d1645ac7870d76358ee2a71a9adf5709382738716"
+  },
+  {
+   "file": "sub-01/ses-walk/eeg/sub-01-ses-walk.vhdr",
+   "action": "text_scrub dates=0",
+   "sha256_src": "a364ce169bd56499f2361441ca6a4195df1bc88087c1606168677839998e9df3"
+  },
+  {
+   "file": "sub-01/ses-walk/eeg/sub-01-ses-walk.eeg",
+   "action": "copy",
+   "sha256_src": "f755fe758f624683d105855bed23ce2dd86b416a150f01f58293f470efe4c1f9"
+  },
+  {
+   "file": "sub-01/ses-walk/motion/sub-01-ses-walk.h5",
+   "action": "h5_time_shift_days=11",
+   "sha256_src": "b5582433e526e7e8e96c3cc2a97f2b10157d09aa6b87d873ad8021573f0b644c"
+  },
+  {
+   "file": "sub-01/ses-walk/motion/sub-01-ses-walk_gaitfilt_cor.mat",
+   "action": "mat_scrub header=True dates=0 numeric_equal=2082",
+   "sha256_src": "366fa51991a98112bf118027d19a59503e57768a7e029e1d679ef19bb9d2d416"
+  },
+  {
+   "file": "sub-01/ses-walk/ieeg/sub-01-ses-walk.json",
+   "action": "percept_scrub dates=94 groupnames=0",
+   "sha256_src": "45a54be5799f84eae1376baa74a178cca8b84505f4c2db1db023e6b61335430b"
+  },
+  {
+   "file": "sub-01/ses-walkws/eeg/sub-01-ses-walkws.vhdr",
+   "action": "text_scrub dates=0",
+   "sha256_src": "cb3a23ad119f99486fc7d73caef458b4a0780c7cfc16c032d97e1e4992c6404e"
+  },
+  {
+   "file": "sub-01/ses-walkws/eeg/sub-01-ses-walkws.eeg",
+   "action": "copy",
+   "sha256_src": "84b8067ac4e473961b887d579cd0e3da2024a625cd3f8c582cc4d299dbdb8e25"
+  },
+  {
+   "file": "sub-01/ses-walkws/eeg/sub-01-ses-walkws.vmrk",
+   "action": "text_scrub dates=1",
+   "sha256_src": "2b83f8f38b0345ec65fb295e3d14c2a0a88333d3881f4c51aa971a09a740a28f"
+  },
+  {
+   "file": "sub-01/ses-walkws/motion/sub-01-ses-walkws_gaitfilt_cor.mat",
+   "action": "mat_scrub header=True dates=0 numeric_equal=1104",
+   "sha256_src": "0a6d22de6cde3b7932faa65648a88e9ca345b1e84ca9d5bd0ae85994e29b61d7"
+  },
+  {
+   "file": "sub-01/ses-walkws/motion/sub-01-ses-walkws.h5",
+   "action": "h5_time_shift_days=11",
+   "sha256_src": "409c8058af61a784d44c7df574a4f71b74b958215fa10b0144173623e22fdfd1"
+  },
+  {
+   "file": "sub-01/ses-walkws/ieeg/sub-01-ses-walkws.json",
+   "action": "percept_scrub dates=102 groupnames=0",
+   "sha256_src": "906be35ef1cc3df1fb31a60c3655f59b4b9c45e1e89b6c2e5848fb095185aae0"
+  },
+  {
+   "file": "sub-19/ses-sitting/eeg/sub-19-ses-sitting.eeg",
+   "action": "copy",
+   "sha256_src": "7a76cdf00359e957965774e911f6bc45fcc506a10bb3c7f2608c93c357f27bc4"
+  },
+  {
+   "file": "sub-19/ses-sitting/eeg/sub-19-ses-sitting.vmrk",
+   "action": "text_scrub dates=1",
+   "sha256_src": "ba402f39d464ad3a31a9edc4d328ed42e981f06a91ad1eaff72042587a4e5eec"
+  },
+  {
+   "file": "sub-19/ses-sitting/eeg/sub-19-ses-sitting.vhdr",
+   "action": "text_scrub dates=0",
+   "sha256_src": "1716af38b88372cc24f1ceca608db4692d8c3f9c753a7deec2e8279e37aa6f54"
+  },
+  {
+   "file": "sub-19/ses-sitting/motion/sub-19-ses-sitting.h5",
+   "action": "h5_time_shift_days=17",
+   "sha256_src": "c33a0b8f437d34dc2fe983d831bbda497828b66a9f85fe552f62b1e01a77351f"
+  },
+  {
+   "file": "sub-19/ses-sitting/ieeg/sub-19-ses-sitting.json",
+   "action": "percept_scrub dates=191 groupnames=0",
+   "sha256_src": "91ce7fd370e8c1b01f7fa0e4c6b93ddc07904d1a20af0938a7e5538a465dbac0"
+  },
+  {
+   "file": "sub-19/ses-standing/eeg/sub-19-ses-standing.eeg",
+   "action": "copy",
+   "sha256_src": "ff8fc4b5bc797457850ef75be4c9d25daeda236279901eb653be6659e583bcce"
+  },
+  {
+   "file": "sub-19/ses-standing/eeg/sub-19-ses-standing.vhdr",
+   "action": "text_scrub dates=0",
+   "sha256_src": "7bc55416d135e98f7443b5b52c1074c324b381977e96c00a7859a168e6d9bc2f"
+  },
+  {
+   "file": "sub-19/ses-standing/eeg/sub-19-ses-standing.vmrk",
+   "action": "text_scrub dates=1",
+   "sha256_src": "5a61d560665d2ae656fffec5a07a230addf8fcb1a1099325e976d44bc2130763"
+  },
+  {
+   "file": "sub-19/ses-standing/motion/sub-19-ses-standing.h5",
+   "action": "h5_time_shift_days=17",
+   "sha256_src": "de6660ff17a98ac62a413668a0c312829ed9e78ded760a3f02ad15989f59b873"
+  },
+  {
+   "file": "sub-19/ses-standing/ieeg/sub-19-ses-standing.json",
+   "action": "percept_scrub dates=145 groupnames=0",
+   "sha256_src": "5bbf45e0ba49149dc425fd8189011b63be04bc68851d200f4492e48ed87c7c3c"
+  },
+  {
+   "file": "sub-19/ses-walk/eeg/sub-19-ses-walk.vhdr",
+   "action": "text_scrub dates=0",
+   "sha256_src": "ef0f6eec64544b78b9c7e1c7388b0fe3bdefce91047d8f48aa143483c47275c1"
+  },
+  {
+   "file": "sub-19/ses-walk/eeg/sub-19-ses-walk.eeg",
+   "action": "copy",
+   "sha256_src": "86a9180adfc505b4293d29c61b29da388341ef271a75daf660e119bb8effcc75"
+  },
+  {
+   "file": "sub-19/ses-walk/eeg/sub-19-ses-walk.vmrk",
+   "action": "text_scrub dates=1",
+   "sha256_src": "7937b0779678b9991cc47dae75453846e0ed9b8cb99d8a73ae16b8d2cf9d269b"
+  },
+  {
+   "file": "sub-19/ses-walk/motion/sub-19-ses-walk.h5",
+   "action": "h5_time_shift_days=17",
+   "sha256_src": "426cbd63708ce19c8216a63b9af0283582724636cff9f83df7de08a016a865c2"
+  },
+  {
+   "file": "sub-19/ses-walk/motion/sub-19-ses-walk_gaitfilt_cor.mat",
+   "action": "mat_scrub header=True dates=0 numeric_equal=1830",
+   "sha256_src": "8a83c3f0f665355f745ff62feead57b8a724c3b1fbe94fcde97b7b6b3cd2191e"
+  },
+  {
+   "file": "sub-19/ses-walk/ieeg/sub-19-ses-walk.json",
+   "action": "percept_scrub dates=148 groupnames=0",
+   "sha256_src": "55b7d707c643ba3e5c9c6bd3e1ed36aba614a9fce6992a240c6e5247da9305d5"
+  },
+  {
+   "file": "sub-19/ses-walkws/eeg/sub-19-ses-walkws.vmrk",
+   "action": "text_scrub dates=1",
+   "sha256_src": "44be7d62a1e8fd3a8ce9922aec76ef39af2fd44de9d755d22f465bd2dfed6110"
+  },
+  {
+   "file": "sub-19/ses-walkws/eeg/sub-19-ses-walkws.eeg",
+   "action": "copy",
+   "sha256_src": "5f9f78ed242ffb86b6a6f745f66924b83be9f1817dace4cf6077fc29af1afda9"
+  },
+  {
+   "file": "sub-19/ses-walkws/eeg/sub-19-ses-walkws.vhdr",
+   "action": "text_scrub dates=0",
+   "sha256_src": "8fe850836dcb55d1144764f689869886973d94ab483ea4edf80900e16df6017b"
+  },
+  {
+   "file": "sub-19/ses-walkws/motion/sub-19-ses-walkws_gaitfilt_cor.mat",
+   "action": "mat_scrub header=True dates=0 numeric_equal=1692",
+   "sha256_src": "42c8930c0bb1031f10ff2287046bb723c47e0cb6d942c8f5a02acb3ae7c77413"
+  },
+  {
+   "file": "sub-19/ses-walkws/motion/sub-19-ses-walkws.h5",
+   "action": "h5_time_shift_days=17",
+   "sha256_src": "2863215cf5cadf449ddb6dd97219a97204abc1ef91c92f4d47b3b48121c3adb3"
+  },
+  {
+   "file": "sub-19/ses-walkws/ieeg/sub-19-ses-walkws.json",
+   "action": "percept_scrub dates=154 groupnames=0",
+   "sha256_src": "2071872712c2ee5cf1e6372e81e9bc9053b171a6e20c45af04971a89c1fb50bc"
+  },
+  {
+   "file": "sub-10/ses-walkint/eeg/sub-10-ses-walkint_eegalg.mat",
+   "action": "mat_scrub header=True dates=0 numeric_equal=18283611",
+   "sha256_src": "ceb8cc219997e2a19262b8dd022163b88ba4bd8e990037c96f23883fc459aa5e"
+  },
+  {
+   "file": "sub-10/ses-walkint/motion/sub-10-ses-walkint_gaitalg.mat",
+   "action": "mat_scrub header=True dates=0 numeric_equal=9121747",
+   "sha256_src": "cc49a0a116f3b80a95bdcfa9841e0f921001b4d49904c949b6e1a5f632093510"
+  },
+  {
+   "file": "sub-10/ses-walkint/motion/sub-10-ses-walkint_gaitfilt_cor.mat",
+   "action": "mat_scrub header=True dates=0 numeric_equal=1914",
+   "sha256_src": "57cc38bfe0da5ea4270eb2de521e903a8ece4bc5ea1ed141a204f27862d06125"
+  },
+  {
+   "file": "sub-10/ses-walkint/ieeg/sub-10-ses-walkint_lfpalg.mat",
+   "action": "mat_scrub header=True dates=196 numeric_equal=1194877",
+   "sha256_src": "1ecdc5b308f932a4974106b255f360b6c66f024351921b126f8ca5718acab35f"
+  },
+  {
+   "file": "sub-10/ses-sitting/eeg/sub-10-ses-sitting_eegalg.mat",
+   "action": "mat_scrub header=True dates=0 numeric_equal=9202697",
+   "sha256_src": "97b186d8a90b7fb6725ff1fc541ab35064432b5b46b0254faae84a87e8b1d538"
+  },
+  {
+   "file": "sub-10/ses-sitting/motion/sub-10-ses-sitting.h5",
+   "action": "h5_time_shift_days=28",
+   "sha256_src": "de983cbc7c09843e6e4addce658e5da8920c5056ff4e47bbb3eb03c24ff112da"
+  },
+  {
+   "file": "sub-10/ses-sitting/ieeg/sub-10-ses-sitting_lfpalg.mat",
+   "action": "mat_scrub header=True dates=195 numeric_equal=578856",
+   "sha256_src": "05bfee8c4aacd64df360e49c6373d1dbcdd6afd22b639c98c8ce0e5c5b2b5e27"
+  },
+  {
+   "file": "sub-10/ses-standing/eeg/sub-10-ses-standing_eegalg.mat",
+   "action": "mat_scrub header=True dates=0 numeric_equal=9275713",
+   "sha256_src": "9b7ef2172eca806a5c031a3b876349cf92fe09ecb2a3b5710c60f59982e8a69d"
+  },
+  {
+   "file": "sub-10/ses-standing/motion/sub-10-ses-standing_gaitalg.mat",
+   "action": "mat_scrub header=True dates=0 numeric_equal=4395791",
+   "sha256_src": "2e401bf991dd93a4288f3cc990960d0cf42b5f3169b28e4b579dc12494effe72"
+  },
+  {
+   "file": "sub-10/ses-standing/ieeg/sub-10-ses-standing_lfpalg.mat",
+   "action": "mat_scrub header=True dates=196 numeric_equal=584242",
+   "sha256_src": "7f47f326f87611fd6cf079b9039baec994b3228dd2dc29d0c2bf90b7ef59e505"
+  },
+  {
+   "file": "sub-10/ses-walk/eeg/sub-10-ses-walk_eegalg.mat",
+   "action": "mat_scrub header=True dates=0 numeric_equal=28897448",
+   "sha256_src": "822dfc879123084c7c1dd51cc3d611a5a3379c74aced6e0ba8a5dc78a1e85bda"
+  },
+  {
+   "file": "sub-10/ses-walk/motion/sub-10-ses-walk_gaitalg.mat",
+   "action": "mat_scrub header=True dates=0 numeric_equal=13797417",
+   "sha256_src": "425ac215cad5ae86d31671612e839f51e6b7df4ba03c667c145b84794c9b1fab"
+  },
+  {
+   "file": "sub-10/ses-walk/motion/sub-10-ses-walk_gaitfilt_cor.mat",
+   "action": "mat_scrub header=True dates=0 numeric_equal=3588",
+   "sha256_src": "def196f0fcd5bb88bfadd85d44e222bfe05d6f2e3ffb954b6ee40eda31f05f83"
+  },
+  {
+   "file": "sub-10/ses-walk/ieeg/sub-10-ses-walk_lfpalg.mat",
+   "action": "mat_scrub header=True dates=198 numeric_equal=1795864",
+   "sha256_src": "4eb148cb458154776761384e129bcc8fbe56fef4f63d90154f2538d2f5d7aeb7"
+  },
+  {
+   "file": "sub-10/ses-walkws/eeg/sub-10-ses-walkws_eegalg.mat",
+   "action": "mat_scrub header=True dates=0 numeric_equal=32204407",
+   "sha256_src": "c7c345766782acd93b7631c6470fa3fefc86a3357fcaecec94ce0b987d2f31b3"
+  },
+  {
+   "file": "sub-10/ses-walkws/motion/sub-10-ses-walkws_gaitalg.mat",
+   "action": "mat_scrub header=True dates=0 numeric_equal=15769997",
+   "sha256_src": "921b4b872b2a172fcbf87d29ced0dd0e45262750e1a10c0e34fb13594248ee03"
+  },
+  {
+   "file": "sub-10/ses-walkws/motion/sub-10-ses-walkws_gaitfilt_cor.mat",
+   "action": "mat_scrub header=True dates=0 numeric_equal=3438",
+   "sha256_src": "ce6f2ac5c50a3f83fd8d739001f2dca75b45296b7d77b2309dd0219834f5a987"
+  },
+  {
+   "file": "sub-10/ses-walkws/ieeg/sub-10-ses-walkws_lfpalg.mat",
+   "action": "mat_scrub header=True dates=196 numeric_equal=2077064",
+   "sha256_src": "3e7829d771bf983cb9bf261bb1cff604a25d9f98f8c069a505e25ada036901db"
+  },
+  {
+   "file": "Coherence-Data/placeholder.txt",
+   "action": "copy",
+   "sha256_src": "b4ea5ce774c6d0e9ea76e04244db64cc139e84b6ba9b83c0a8fbb93014e5c6c9"
+  },
+  {
+   "file": "sub-17/ses-sitting/eeg/sub-17-ses-sitting.vmrk",
+   "action": "text_scrub dates=1",
+   "sha256_src": "63919395a1c99c6872d958a789de14c25a48f4ce4af3b1f94b771a9e0ea36aeb"
+  },
+  {
+   "file": "sub-17/ses-sitting/eeg/sub-17-ses-sitting.eeg",
+   "action": "copy",
+   "sha256_src": "1219e237c428365ebbb679da3340ad059bda29c8ec0c9b6d8cdb29f7d011255e"
+  },
+  {
+   "file": "sub-17/ses-sitting/eeg/sub-17-ses-sitting.vhdr",
+   "action": "text_scrub dates=0",
+   "sha256_src": "5c79d67149f07355dcc49b0b4ad87711bdddf3158a571f2f40a21ef078c8ecaa"
+  },
+  {
+   "file": "sub-17/ses-sitting/motion/sub-17-ses-sitting.h5",
+   "action": "h5_time_shift_days=12",
+   "sha256_src": "a1b11ff2327cb76d049285dc662a9a4f1a2c885fd746abbcc530d408c3b6f9c8"
+  },
+  {
+   "file": "sub-17/ses-sitting/ieeg/sub-17-ses-sitting_lfpalg.mat",
+   "action": "mat_scrub header=True dates=0 numeric_equal=427500",
+   "sha256_src": "d484b2fccf27e09a0c155a50cc2164fe8446fcdba6c5a95e21752faf07017a29"
+  },
+  {
+   "file": "sub-17/ses-standing/eeg/sub-17-ses-standing.eeg",
+   "action": "copy",
+   "sha256_src": "263b245c0cd31d7938b2817310651f70531fa1ef49bfed3fc8e37f334dd1b765"
+  },
+  {
+   "file": "sub-17/ses-standing/eeg/sub-17-ses-standing.vhdr",
+   "action": "text_scrub dates=0",
+   "sha256_src": "85ed7e37aba251629b596dd3ae19d47798d2b07cf5218e661cc0b71be3ee5034"
+  },
+  {
+   "file": "sub-17/ses-standing/eeg/sub-17-ses-standing.vmrk",
+   "action": "text_scrub dates=1",
+   "sha256_src": "9e9351bbabfae2f2dfdea6e643bf44bd489d534633633eb148b2843aa1702634"
+  },
+  {
+   "file": "sub-17/ses-standing/motion/sub-17-ses-standing.h5",
+   "action": "h5_time_shift_days=12",
+   "sha256_src": "a19dcc0056ae469dcde1a391380b8b1e5c47b987bce4152439b0c7b0d78d61e5"
+  },
+  {
+   "file": "sub-17/ses-standing/ieeg/sub-17-ses-standing.json",
+   "action": "percept_scrub dates=102 groupnames=0",
+   "sha256_src": "0d6ebfd3942ebffd631620e9ef9c4dd4875abfae02609f8e2efd24934a137310"
+  },
+  {
+   "file": "sub-17/ses-walk/eeg/sub-17-ses-walk.vhdr",
+   "action": "text_scrub dates=0",
+   "sha256_src": "a29e2efe57235d781c41ebc2332d851436fce3a4289472b88424742522d1f683"
+  },
+  {
+   "file": "sub-17/ses-walk/eeg/sub-17-ses-walk.eeg",
+   "action": "copy",
+   "sha256_src": "c6e7ff2394de56f98ea4be2aefbba084bf7f42e53d08d935517720f951438564"
+  },
+  {
+   "file": "sub-17/ses-walk/eeg/sub-17-ses-walk.vmrk",
+   "action": "text_scrub dates=1",
+   "sha256_src": "f9f99a705bd14ebc99b25a7c282721e417cd6376afcbe0eca072f12d9cfe0906"
+  },
+  {
+   "file": "sub-17/ses-walk/motion/sub-17-ses-walk.h5",
+   "action": "h5_time_shift_days=12",
+   "sha256_src": "e68795a577859080d322b94c472b46d1a77ebd28fb1cd2bf65dff4c7c2a5e5ab"
+  },
+  {
+   "file": "sub-17/ses-walk/motion/sub-17-ses-walk_gaitfilt_cor.mat",
+   "action": "mat_scrub header=True dates=0 numeric_equal=2238",
+   "sha256_src": "fb2972cc505dc67c3d39246229253dfd72fc53a7516012e505dd9be8bb78fef6"
+  },
+  {
+   "file": "sub-17/ses-walk/ieeg/sub-17-ses-walk.json",
+   "action": "percept_scrub dates=105 groupnames=0",
+   "sha256_src": "7296861e49a0184dcd3554a03f99e5ce76f59e3770c1d6e54200f0730d46f305"
+  },
+  {
+   "file": "sub-17/ses-walkws/eeg/sub-17-ses-walkws.vhdr",
+   "action": "text_scrub dates=0",
+   "sha256_src": "db48c388a4d06aaecd9183d145424fb677f4a57aafe096d2b7ef1dd876e4c95f"
+  },
+  {
+   "file": "sub-17/ses-walkws/eeg/sub-17-ses-walkws.vmrk",
+   "action": "text_scrub dates=1",
+   "sha256_src": "975240e598427cc86b78e1f8d715a22c8209436897c4fcf83e598ff94aa0881f"
+  },
+  {
+   "file": "sub-17/ses-walkws/eeg/sub-17-ses-walkws.eeg",
+   "action": "copy",
+   "sha256_src": "f9feb6c5a4775f39ac25113ef27e13702692018ddbaaa5e7497649f78461e54e"
+  },
+  {
+   "file": "sub-17/ses-walkws/motion/sub-17-ses-walkws.h5",
+   "action": "h5_time_shift_days=12",
+   "sha256_src": "546a29ebec2f46c97e9f66635b573e32be8f91163d69c340cbb447b4b43b44c3"
+  },
+  {
+   "file": "sub-17/ses-walkws/motion/sub-17-ses-walkws_gaitfilt_cor.mat",
+   "action": "mat_scrub header=True dates=0 numeric_equal=1824",
+   "sha256_src": "bfd4821c8a0db90177212b762a7d034f6d57344dc211ad3d268e017592d0afdd"
+  },
+  {
+   "file": "sub-17/ses-walkws/ieeg/sub-17-ses-walkws.json",
+   "action": "percept_scrub dates=113 groupnames=0",
+   "sha256_src": "070682c50ebf2a4e4fe5f4c8ed6171f7d39300cb6909f80d83675e86fa6b974e"
+  },
+  {
+   "file": "Kinematic-Data/placeholder.txt",
+   "action": "copy",
+   "sha256_src": "b4ea5ce774c6d0e9ea76e04244db64cc139e84b6ba9b83c0a8fbb93014e5c6c9"
+  },
+  {
+   "file": "sub-05/ses-sitting/eeg/sub-05-ses-sitting.eeg",
+   "action": "copy",
+   "sha256_src": "4b6528af6f20e9140bd6abf41f9e2b3846f245660c16e5e1c2775048a19fdc10"
+  },
+  {
+   "file": "sub-05/ses-sitting/eeg/sub-05-ses-sitting.vhdr",
+   "action": "text_scrub dates=0",
+   "sha256_src": "c6c7e7673d56824d096ea73932b5068890f4ab61e1d4aeea5680a14b7a683907"
+  },
+  {
+   "file": "sub-05/ses-sitting/eeg/sub-05-ses-sitting.vmrk",
+   "action": "text_scrub dates=1",
+   "sha256_src": "beaaa2116705522c7422ff8a5c231cf6f4a881d929bd86e3e8a4ce8bc49c3df3"
+  },
+  {
+   "file": "sub-05/ses-sitting/motion/sub-05-ses-sitting.h5",
+   "action": "h5_time_shift_days=27",
+   "sha256_src": "dec04886e4d0b002924ee81ef3b5d6240729225e8b1bc2d0a812aadd8bf4e31a"
+  },
+  {
+   "file": "sub-05/ses-sitting/ieeg/sub-05-ses-sitting.json",
+   "action": "percept_scrub dates=40 groupnames=0",
+   "sha256_src": "c251e44a0840e9f3dcd994d71d40484da6158495ad0e35508ff63896ede0d381"
+  },
+  {
+   "file": "sub-05/ses-standing/eeg/sub-05-ses-standing_eegalg.mat",
+   "action": "mat_scrub header=True dates=0 numeric_equal=7840101",
+   "sha256_src": "46bc9822e920a17f6526c14c99d6480f9c171465101030a61e148a6508f909ae"
+  },
+  {
+   "file": "sub-05/ses-standing/motion/sub-05-ses-standing_gaitalg.mat",
+   "action": "mat_scrub header=True dates=0 numeric_equal=3618214",
+   "sha256_src": "be193d5165ee0f153ae3315163bce42e295df7d9417feeca19b9d80d9bab094a"
+  },
+  {
+   "file": "sub-05/ses-standing/ieeg/sub-05-ses-standing_lfpalg.mat",
+   "action": "mat_scrub header=True dates=42 numeric_equal=512862",
+   "sha256_src": "ecb5e2954f4069df37f6069b1a100f3e4ff1087f2541655e31a55192c561cd6f"
+  },
+  {
+   "file": "sub-05/ses-walkws/eeg/sub-05-ses-walkws.vhdr",
+   "action": "text_scrub dates=0",
+   "sha256_src": "272821f7005b13556eb079918cccc10e27ef1758d03c7b7295f04a031ba331c9"
+  },
+  {
+   "file": "sub-05/ses-walkws/eeg/sub-05-ses-walkws.eeg",
+   "action": "copy",
+   "sha256_src": "33f93544579ddf659907cf6308d05c3366c09d9c5accfa5c258074f1095053a4"
+  },
+  {
+   "file": "sub-05/ses-walkws/eeg/sub-05-ses-walkws.vmrk",
+   "action": "text_scrub dates=1",
+   "sha256_src": "3af6e2d898953ac1126b9384680de96de86d08239fa37a96cba6192f978196fb"
+  },
+  {
+   "file": "sub-05/ses-walkws/motion/sub-05-ses-walkws_gaitfilt_cor.mat",
+   "action": "mat_scrub header=True dates=0 numeric_equal=660",
+   "sha256_src": "5eaf6e3de6b89261b1500901c2caf599d77f6e6721b9ec02dcf5a3d8d4689ce1"
+  },
+  {
+   "file": "sub-05/ses-walkws/motion/sub-05-ses-walkws.h5",
+   "action": "h5_time_shift_days=27",
+   "sha256_src": "a58df74eccedb3aac70b96eda1b8407680135331816617a301d7ef7d7dbd5b6c"
+  },
+  {
+   "file": "sub-05/ses-walkws/ieeg/sub-05-ses-walkws.json",
+   "action": "percept_scrub dates=48 groupnames=0",
+   "sha256_src": "bf59216a8b66c0b32f971b5f3cefcba22d2a9fb1cae1e2312c992ea569be54d8"
+  },
+  {
+   "file": "sub-14/ses-walkint/eeg/sub-14-ses-walkint.vmrk",
+   "action": "text_scrub dates=1",
+   "sha256_src": "24f5a4ab1a4a2744bb8a81023cc6d1814446396940b32cfdb615a432608eac76"
+  },
+  {
+   "file": "sub-14/ses-walkint/eeg/sub-14-ses-walkint.vhdr",
+   "action": "text_scrub dates=0",
+   "sha256_src": "4e454e085b6e25026b7a30ebb2308a5774c635dacc15fab84a88241c2eb97c79"
+  },
+  {
+   "file": "sub-14/ses-walkint/eeg/sub-14-ses-walkint.eeg",
+   "action": "copy",
+   "sha256_src": "05aa755e053d74b504b8b182518dbd3cea655d3c558a168b0c0c93f12cc42d5d"
+  },
+  {
+   "file": "sub-14/ses-walkint/motion/sub-14-ses-walkint.h5",
+   "action": "h5_time_shift_days=13",
+   "sha256_src": "7f581e6fb059ce9b27fd6a794d1c7c04a8c07c24af22d61043e9a5a3dbb51c3a"
+  },
+  {
+   "file": "sub-14/ses-walkint/motion/sub-14-ses-walkint_gaitfilt_cor.mat",
+   "action": "mat_scrub header=True dates=0 numeric_equal=1632",
+   "sha256_src": "a24dc782795a6b638d11481e3ba2a9cfbb79cae1bc22bbd3f19c29b894df58ba"
+  },
+  {
+   "file": "sub-14/ses-walkint/ieeg/sub-14-ses-walkint.json",
+   "action": "percept_scrub dates=88 groupnames=4",
+   "sha256_src": "1151e51357d355f580d9253cf4ad47d6683417adcdf238aff446253464245177"
+  },
+  {
+   "file": "sub-14/ses-sitting/eeg/sub-14-ses-sitting.eeg",
+   "action": "copy",
+   "sha256_src": "3cd5e7c376fcc66fc768edbae9e58e4cccf6e241eef42e70b516f288cce83894"
+  },
+  {
+   "file": "sub-14/ses-sitting/eeg/sub-14-ses-sitting.vmrk",
+   "action": "text_scrub dates=1",
+   "sha256_src": "6d344ca71271407fafad63bd19884cc811fea16a5640c35c2ddc912cc1b7e441"
+  },
+  {
+   "file": "sub-14/ses-sitting/eeg/sub-14-ses-sitting.vhdr",
+   "action": "text_scrub dates=0",
+   "sha256_src": "9cc189d1608c0dcad37cc3c67e0b99622c029e698536afb2ee8cc8be92647e44"
+  },
+  {
+   "file": "sub-14/ses-sitting/motion/sub-14-ses-sitting.h5",
+   "action": "h5_time_shift_days=13",
+   "sha256_src": "0a8b5157b0c7ae0b6e5f22336d534f9bbda01ebd0c78b8985b8bcf7f1b333714"
+  },
+  {
+   "file": "sub-14/ses-sitting/ieeg/sub-14-ses-sitting.json",
+   "action": "percept_scrub dates=77 groupnames=4",
+   "sha256_src": "6c2459c59298e6db8b3a68995d33018dccfb8caaecb51fe31f7cb1babd4f9a43"
+  },
+  {
+   "file": "sub-14/ses-walkint2/eeg/sub-14-ses-walkint2.vhdr",
+   "action": "text_scrub dates=0",
+   "sha256_src": "9d35cb45f923007239ea2ef9440ce3567aaedb42d40fbfed9b2684d2c1d8fffe"
+  },
+  {
+   "file": "sub-14/ses-walkint2/eeg/sub-14-ses-walkint2.vmrk",
+   "action": "text_scrub dates=1",
+   "sha256_src": "89bcc368c316075fc0168c04c1b10f96b3b45af259af00bc3713fab8dac902a4"
+  },
+  {
+   "file": "sub-14/ses-walkint2/eeg/sub-14-ses-walkint2.eeg",
+   "action": "copy",
+   "sha256_src": "57e0a8266f7c1922189509fe458b8d7463403cae6ac5e40eefdf5742f9ba7336"
+  },
+  {
+   "file": "sub-14/ses-walkint2/motion/sub-14-ses-walkint2.h5",
+   "action": "h5_time_shift_days=13",
+   "sha256_src": "baf0e3dea7b26d935bef3c3a908f4d5c5f348588d35ea994199c5cd9593ad6dd"
+  },
+  {
+   "file": "sub-14/ses-walkint2/motion/sub-14-ses-walkint2_gaitfilt_cor.mat",
+   "action": "mat_scrub header=True dates=0 numeric_equal=1368",
+   "sha256_src": "9506b7ffdde85a6131211e791f8b260efb280296d4b12cdae315e7e545802a37"
+  },
+  {
+   "file": "sub-14/ses-walkint2/ieeg/sub-14-ses-walkint2.json",
+   "action": "percept_scrub dates=92 groupnames=4",
+   "sha256_src": "c340f99a697188fb840873f0c9d37d7c8e2a32d1d3c3afda358c4a6d4feec403"
+  },
+  {
+   "file": "sub-14/ses-standing/eeg/sub-14-ses-standing.vhdr",
+   "action": "text_scrub dates=0",
+   "sha256_src": "4eb17382544e0efc6fbd9f0666650aa0a944af12261d424b4084ce35e6d766d4"
+  },
+  {
+   "file": "sub-14/ses-standing/eeg/sub-14-ses-standing.vmrk",
+   "action": "text_scrub dates=1",
+   "sha256_src": "f56b6354258dd5a3c7934f554e35a752f3df3dd0f346a8f0f8b825f8dcf08c2d"
+  },
+  {
+   "file": "sub-14/ses-standing/eeg/sub-14-ses-standing.eeg",
+   "action": "copy",
+   "sha256_src": "e525e14bf3cde04e55ac21488edc9677b7d48627c95bc05c64e8bc9e0e676cd2"
+  },
+  {
+   "file": "sub-14/ses-standing/motion/sub-14-ses-standing.h5",
+   "action": "h5_time_shift_days=13",
+   "sha256_src": "b95023fa57de6b1b3fdb06c9576f45087115a57dd809f7d12daedb13e94d7a34"
+  },
+  {
+   "file": "sub-14/ses-standing/ieeg/sub-14-ses-standing.json",
+   "action": "percept_scrub dates=81 groupnames=4",
+   "sha256_src": "2f301f58223edcd6de26ed8cc85c5a6f4b37936531cbb831fdaf0d4b5910cdd7"
+  },
+  {
+   "file": "sub-14/ses-walkws/eeg/sub-14-ses-walkws.eeg",
+   "action": "copy",
+   "sha256_src": "0b5d5e97c2b94589b4dce773234bf079d79a9573024bdb81292a0f3006980123"
+  },
+  {
+   "file": "sub-14/ses-walkws/eeg/sub-14-ses-walkws.vhdr",
+   "action": "text_scrub dates=0",
+   "sha256_src": "a85da98dbabb7495384fa5fbc066c5e9c47b09e316e748d54ce4acd2646dd8c8"
+  },
+  {
+   "file": "sub-14/ses-walkws/eeg/sub-14-ses-walkws.vmrk",
+   "action": "text_scrub dates=1",
+   "sha256_src": "e0da3068dbad6c1853703ee065aa74cbc508af0a18aea63636a38d9f65af53c0"
+  },
+  {
+   "file": "sub-14/ses-walkws/motion/sub-14-ses-walkws.h5",
+   "action": "h5_time_shift_days=13",
+   "sha256_src": "634a7cd69611317f8f234c94bf9370e75cf5e627410d32a6001741b1d5213c9b"
+  },
+  {
+   "file": "sub-14/ses-walkws/motion/sub-14-ses-walkws_gaitfilt_cor.mat",
+   "action": "mat_scrub header=True dates=0 numeric_equal=1416",
+   "sha256_src": "e76a5a997c78d0ec8a4e5f2dfd69451b4fed167168e33222ac6e98094fbd8537"
+  },
+  {
+   "file": "sub-14/ses-walkws/ieeg/sub-14-ses-walkws.json",
+   "action": "percept_scrub dates=86 groupnames=4",
+   "sha256_src": "a7a4959e46a8caa45bc919e17fcd118dcea35633e4c2096b87fb28c4d7e5aab2"
+  },
+  {
+   "file": "sub-13/ses-walkint/eeg/sub-13-ses-walkint.vhdr",
+   "action": "text_scrub dates=0",
+   "sha256_src": "7b39b26478fc6a860aa029c24e3fe3a04b1e39146ce4b8778b97be568bcd6197"
+  },
+  {
+   "file": "sub-13/ses-walkint/eeg/sub-13-ses-walkint.vmrk",
+   "action": "text_scrub dates=1",
+   "sha256_src": "357362688c2e27d1d25dd796426f916c14e3ef39e52b7e6209b042d481cc054a"
+  },
+  {
+   "file": "sub-13/ses-walkint/eeg/sub-13-ses-walkint.eeg",
+   "action": "copy",
+   "sha256_src": "c50bc48405775f1e04f4bfbaa64dde5b293ea858466859bba346afe9211743b3"
+  },
+  {
+   "file": "sub-13/ses-walkint/motion/sub-13-ses-walkint_gaitfilt_cor.mat",
+   "action": "mat_scrub header=True dates=0 numeric_equal=2574",
+   "sha256_src": "373727e8a985ac7567b52cd8999349351ba2cab5b876869a6d5bda48332a6754"
+  },
+  {
+   "file": "sub-13/ses-walkint/motion/sub-13-ses-walkint.h5",
+   "action": "h5_time_shift_days=15",
+   "sha256_src": "bb13e9789d01e6cc5277656d203c438da2fb6643d191563328beaafc056eecc6"
+  },
+  {
+   "file": "sub-13/ses-walkint/ieeg/sub-13-ses-walkint.json",
+   "action": "percept_scrub dates=91 groupnames=0",
+   "sha256_src": "b789f8077ad70c42a419e99cb6480332d6a90d17f5d834453ba8f7b0a53c68a8"
+  },
+  {
+   "file": "sub-13/ses-sitting/eeg/sub-13-ses-sitting.vhdr",
+   "action": "text_scrub dates=0",
+   "sha256_src": "1c2e581586c7b266b11b77d0319266f66eb243951e39a65c57d9597c363b2501"
+  },
+  {
+   "file": "sub-13/ses-sitting/eeg/sub-13-ses-sitting.eeg",
+   "action": "copy",
+   "sha256_src": "61c1a43392254a66a0918af1bcb217b2b6aa42b9d47244b4e0f386c97b566ef2"
+  },
+  {
+   "file": "sub-13/ses-sitting/eeg/sub-13-ses-sitting.vmrk",
+   "action": "text_scrub dates=1",
+   "sha256_src": "c7f0c02b6d7dfa319b70087bd61f4d7bd082b1614be71303e144984c1d3b6b8f"
+  },
+  {
+   "file": "sub-13/ses-sitting/ieeg/sub-13-ses-sitting.json",
+   "action": "percept_scrub dates=74 groupnames=0",
+   "sha256_src": "483fb0f4b344193c28ea302ed9d3ebea0622d424fba30c59c2f402a8949a210b"
+  },
+  {
+   "file": "sub-13/ses-standing/eeg/sub-13-ses-standing.vhdr",
+   "action": "text_scrub dates=0",
+   "sha256_src": "2c6dcb2f91c83ea060f4969141c4966f9bbe80cca467e1355f33063fadf1deef"
+  },
+  {
+   "file": "sub-13/ses-standing/eeg/sub-13-ses-standing.vmrk",
+   "action": "text_scrub dates=1",
+   "sha256_src": "add94925f7044a06bf4f7cacd95aa26827c7a51ccc0b40a903df92422588ea5b"
+  },
+  {
+   "file": "sub-13/ses-standing/eeg/sub-13-ses-standing.eeg",
+   "action": "copy",
+   "sha256_src": "e6cbadcb25e83ca93d04e552cb66e861a529c119f0b2f56384f7675c94a10c8f"
+  },
+  {
+   "file": "sub-13/ses-standing/ieeg/sub-13-ses-standing.json",
+   "action": "percept_scrub dates=78 groupnames=0",
+   "sha256_src": "04f8c3128b379ee56b9b468efc45a2bf17ea258ecc7225a1936a983041424c98"
+  },
+  {
+   "file": "sub-13/ses-walk/eeg/sub-13-ses-walk.eeg",
+   "action": "copy",
+   "sha256_src": "ea5085fc776fcc89900b1c153d9e4f958906ffc5043aee2ee2849d24475e7892"
+  },
+  {
+   "file": "sub-13/ses-walk/eeg/sub-13-ses-walk.vhdr",
+   "action": "text_scrub dates=0",
+   "sha256_src": "f8fad6a0186e7976ec7be2f5331e40ef4bc4268ff1a12b13cd65c29ea323a776"
+  },
+  {
+   "file": "sub-13/ses-walk/eeg/sub-13-ses-walk.vmrk",
+   "action": "text_scrub dates=1",
+   "sha256_src": "7959e05ae7d210344010bcb3344e435e54104839249e62e59bea6c354b009931"
+  },
+  {
+   "file": "sub-13/ses-walk/motion/sub-13-ses-walk_gaitfilt_cor.mat",
+   "action": "mat_scrub header=True dates=0 numeric_equal=2556",
+   "sha256_src": "10b38ed330baad630ba98b8333898939913042a50a80898f8323040a5a176b05"
+  },
+  {
+   "file": "sub-13/ses-walk/motion/sub-13-ses-walk.h5",
+   "action": "h5_time_shift_days=15",
+   "sha256_src": "ed7671ef119a5c19a6ba445f3fb9b3861b9437cd863487f56516d2ba9e622e00"
+  },
+  {
+   "file": "sub-13/ses-walk/ieeg/sub-13-ses-walk.json",
+   "action": "percept_scrub dates=81 groupnames=0",
+   "sha256_src": "aa210381cd340ae4aac872df977654103487ce62925e5392ac645a8b605f23f9"
+  },
+  {
+   "file": "sub-13/ses-walkws/eeg/sub-13-ses-walkws.vhdr",
+   "action": "text_scrub dates=0",
+   "sha256_src": "5d77176b8e301c84218668cb0919e48487078a001412aedd88eff2bae4e6ffd5"
+  },
+  {
+   "file": "sub-13/ses-walkws/eeg/sub-13-ses-walkws.vmrk",
+   "action": "text_scrub dates=1",
+   "sha256_src": "a3e419d76ce53c022ebddc0fd449e7f7a951a15a375a7beaee3a3c9dfe6c45f8"
+  },
+  {
+   "file": "sub-13/ses-walkws/eeg/sub-13-ses-walkws.eeg",
+   "action": "copy",
+   "sha256_src": "38db766c78a660a9195838d76be75c52e92cf1c38b701f074386066228bd7837"
+  },
+  {
+   "file": "sub-13/ses-walkws/motion/sub-13-ses-walkws_gaitfilt_cor.mat",
+   "action": "mat_scrub header=True dates=0 numeric_equal=2094",
+   "sha256_src": "23ada6121c4db586fcd81c1ec1b8a5dffc1e8414492f85f491e452bbdab9e158"
+  },
+  {
+   "file": "sub-13/ses-walkws/motion/sub-13-ses-walkws.h5",
+   "action": "h5_time_shift_days=15",
+   "sha256_src": "165c8054d32c4ccf8860f4c9d3d53a75b980045fc9e95b69022866c77ce3a973"
+  },
+  {
+   "file": "sub-13/ses-walkws/ieeg/sub-13-ses-walkws.json",
+   "action": "percept_scrub dates=83 groupnames=0",
+   "sha256_src": "a7a48f8e216a2e3a3edc174e195283e8c7887fd73eb56956759ccca2ff34f028"
+  },
+  {
+   "file": "sub-09/ses-sitting/eeg/sub-09-ses-sitting.vmrk",
+   "action": "text_scrub dates=1",
+   "sha256_src": "6039cc2ab6d1e9b42f12463cfe575e78bcb7f99469637fc724b1fb5ed58c1216"
+  },
+  {
+   "file": "sub-09/ses-sitting/eeg/sub-09-ses-sitting.vhdr",
+   "action": "text_scrub dates=0",
+   "sha256_src": "3b08f392c265ae1605fc1ed27f2c980e74d91143a08e09829d03c9514d711a48"
+  },
+  {
+   "file": "sub-09/ses-sitting/eeg/sub-09-ses-sitting.eeg",
+   "action": "copy",
+   "sha256_src": "caa1cf659fccbb80419426d8b71107c6bc05eb97a4bcf6cba9fac29b999c7def"
+  },
+  {
+   "file": "sub-09/ses-sitting/motion/sub-09-ses-sitting.h5",
+   "action": "h5_time_shift_days=25",
+   "sha256_src": "4e42618fa4894ac41bbc5d474bb633b53c2ec76d2895f878c66541dd1f8513de"
+  },
+  {
+   "file": "sub-09/ses-sitting/ieeg/sub-09-ses-sitting.json",
+   "action": "percept_scrub dates=80 groupnames=0",
+   "sha256_src": "75e7e2e20fd8b8cd0cc683784e8b2faf9f99f7c9870a495cabe4301df9070130"
+  },
+  {
+   "file": "sub-09/ses-standing/eeg/sub-09-ses-standing.vhdr",
+   "action": "text_scrub dates=0",
+   "sha256_src": "e69a42737aec1d5c2e621005f08b9184a1e9d28213aaa4b996f5d51b40ea0133"
+  },
+  {
+   "file": "sub-09/ses-standing/eeg/sub-09-ses-standing.vmrk",
+   "action": "text_scrub dates=1",
+   "sha256_src": "9e07c12e114aa204ff3c81f28fed7217c1260fa00cb200c741c8f35cef55d526"
+  },
+  {
+   "file": "sub-09/ses-standing/eeg/sub-09-ses-standing.eeg",
+   "action": "copy",
+   "sha256_src": "621ac3e61c037d02aabcdfe2e72b20aff14ecf65e1e126c4833729acafeda5b0"
+  },
+  {
+   "file": "sub-09/ses-standing/motion/sub-09-ses-standing.h5",
+   "action": "h5_time_shift_days=25",
+   "sha256_src": "b9ff29f5a9a7d9510dfa361ab6014eb020769ac6dccd90eaa4da9622f4c8783c"
+  },
+  {
+   "file": "sub-09/ses-standing/ieeg/sub-09-ses-standing.json",
+   "action": "percept_scrub dates=84 groupnames=0",
+   "sha256_src": "ffdf28a8bf6dac26e1d732c1f5124ea118aeeff6ae07208564476c26eb890f55"
+  },
+  {
+   "file": "sub-09/ses-walk/eeg/sub-09-ses-walk.vhdr",
+   "action": "text_scrub dates=0",
+   "sha256_src": "4c65f2a4cfab880937dc2b7cddc7b75e3db95327216de9cb424c5d9a381ba104"
+  },
+  {
+   "file": "sub-09/ses-walk/eeg/sub-09-ses-walk.eeg",
+   "action": "copy",
+   "sha256_src": "f23da2f588224a7246a82b04126516824a2987ae6f3cf2c3654ffde3e7b107a5"
+  },
+  {
+   "file": "sub-09/ses-walk/eeg/sub-09-ses-walk.vmrk",
+   "action": "text_scrub dates=1",
+   "sha256_src": "000aadc0ae9541de3a77a8a62b610144209bd0e6c969cc2250f66c9d4fe1c296"
+  },
+  {
+   "file": "sub-09/ses-walk/motion/sub-09-ses-walk.h5",
+   "action": "h5_time_shift_days=25",
+   "sha256_src": "a5a52a14dcbd2f7e38846148423ff82d6763c48258d36809ebd63fcfbb1bbd29"
+  },
+  {
+   "file": "sub-09/ses-walk/motion/sub-09-ses-walk_gaitfilt_cor.mat",
+   "action": "mat_scrub header=True dates=0 numeric_equal=2292",
+   "sha256_src": "3bdf132914d5772b371bfbb375b01a299127acd5b8f845484ec73978a474fece"
+  },
+  {
+   "file": "sub-09/ses-walk/ieeg/sub-09-ses-walk.json",
+   "action": "percept_scrub dates=88 groupnames=0",
+   "sha256_src": "309813bf2b6e654724b119b8752ae419c9eade2b34ad885686730b6e872a7cb9"
+  },
+  {
+   "file": "sub-09/ses-walkws/eeg/sub-09-ses-walkws.vmrk",
+   "action": "text_scrub dates=1",
+   "sha256_src": "b182f543b64f8e63c85e4dabee1c357bc81a1a16e7e51fe1bcf0a7ac760cf0b7"
+  },
+  {
+   "file": "sub-09/ses-walkws/eeg/sub-09-ses-walkws.eeg",
+   "action": "copy",
+   "sha256_src": "58b302d6ba9717c7698be85921b7788f08783f8558b1657f3d0b322519f89f48"
+  },
+  {
+   "file": "sub-09/ses-walkws/eeg/sub-09-ses-walkws.vhdr",
+   "action": "text_scrub dates=0",
+   "sha256_src": "ea63a930682a7bdcedce90a2c0162ae38c6517915c8ba6f52f2f885096d76dbe"
+  },
+  {
+   "file": "sub-09/ses-walkws/motion/sub-09-ses-walkws.h5",
+   "action": "h5_time_shift_days=25",
+   "sha256_src": "48f27bc3c8bf468b6e8e27c0a0918d8441e1ec1714bb6ce92e6ab99e70bd3a24"
+  },
+  {
+   "file": "sub-09/ses-walkws/motion/sub-09-ses-walkws_gaitfilt_cor.mat",
+   "action": "mat_scrub header=True dates=0 numeric_equal=2172",
+   "sha256_src": "b236a11f0af9def4f5b46215e2719b1b011f021ac7ce6a9e400d9507737f8546"
+  },
+  {
+   "file": "sub-09/ses-walkws/ieeg/sub-09-ses-walkws.json",
+   "action": "percept_scrub dates=92 groupnames=0",
+   "sha256_src": "3d9fd61fd228027f06a2f47e835f1d6edafcf45808bb7c1406781a9ca60140b4"
+  }
+ ],
+ "privacy": {
+  "vhdr_dates": 0,
+  "vmrk_dates": 45,
+  "brainvision_text_dates": 45,
+  "mat_header_dates": 46,
+  "mat_embedded_dates": 1023,
+  "h5_shifted_files": 43,
+  "percept_dates": 4375,
+  "percept_groupnames": 20
+ },
+ "not_converted": [
+  {
+   "file": "sub-11/ses-sitting/ieeg/sub-11-ses-sitting.json",
+   "reason": "Percept JSON without BrainSenseTimeDomain streams (sourcedata only)"
+  }
+ ]
+}

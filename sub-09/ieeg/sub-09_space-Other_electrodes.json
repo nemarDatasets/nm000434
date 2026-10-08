@@ -1,0 +1,11 @@
+{
+  "name": {
+    "Description": "Lead (LEFT/RIGHT) and contact level ZERO..THREE as used in the Percept channel labels"
+  },
+  "lead_model": {
+    "Description": "Medtronic lead model from the Percept LeadConfiguration (3387, 3389, B33005/B33015 SenSight)"
+  },
+  "region_stated": {
+    "Description": "Target region stated by the device export and the release documentation; not a localisation"
+  }
+}

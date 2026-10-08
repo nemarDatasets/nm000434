@@ -1,0 +1,12 @@
+onset	duration	trial_type	value	sample
+0.0	0	Comment	no USB Connection to actiCAP	0
+1.888	0	Moblab	M  1	1888
+38.65	0	Toggle	T  1_off	38650
+39.716	0	Toggle	T  1_on	39716
+58.459	0	Toggle	T  1_off	58459
+60.221	0	Toggle	T  1_on	60221
+135.289	0	Toggle	T  1_off	135289
+136.193	0	Toggle	T  1_on	136193
+137.092	0	Moblab	M  1	137092
+137.093	0	Toggle	T  1_off	137093
+138.397	0	Toggle	T  1_on	138397

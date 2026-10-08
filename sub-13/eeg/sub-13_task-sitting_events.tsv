@@ -1,0 +1,12 @@
+onset	duration	trial_type	value	sample
+0.0	0	Comment	no USB Connection to actiCAP	0
+1.616	0	Toggle	T  1_off	1616
+2.559	0	Toggle	T  1_on	2559
+2.653	0	Toggle	T  1_off	2653
+3.755	0	Toggle	T  1_on	3755
+4.595	0	Toggle	T  1_off	4595
+5.803	0	Toggle	T  1_on	5803
+8.185	0	Toggle	T  1_off	8185
+8.842	0	Toggle	T  1_on	8842
+12.149	0	Toggle	T  1_off	12149
+13.52	0	Toggle	T  1_on	13520

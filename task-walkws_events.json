@@ -1,0 +1,11 @@
+{
+  "trial_type": {
+    "Description": "BrainVision marker type as recorded (e.g. Toggle, Moblab, Comment)"
+  },
+  "value": {
+    "Description": "BrainVision marker description as recorded (e.g. 'T  1_on', 'M  1'); the release does not document their meaning"
+  },
+  "sample": {
+    "Description": "0-based sample index at 1000 Hz"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "TaskName": "walk",
+  "TaskDescription": "Walking through a narrow corridor as a mono task (about 240 s), medication OFF, stimulation OFF (release documentation)",
+  "SamplingFrequency": 250.0,
+  "PowerLineFrequency": 50,
+  "SoftwareFilters": "n/a",
+  "HardwareFilters": "n/a",
+  "iEEGReference": "bipolar: each channel is the Percept sensing pair named in its label (e.g. ONE_THREE_LEFT = contact levels 1 and 3 of the left lead)",
+  "iEEGPlacementScheme": "bilateral subthalamic nucleus DBS leads (LeadLocation 'Stn' in the Percept export)",
+  "Manufacturer": "Medtronic",
+  "ManufacturersModelName": "Percept PC (B35200)",
+  "SoftwareVersions": "Percept device 07.05.00; programmer 3.0.1062",
+  "RecordingType": "continuous",
+  "RecordingDuration": 387.252,
+  "DBSChannelCount": 2,
+  "ECOGChannelCount": 0,
+  "SEEGChannelCount": 0,
+  "ElectricalStimulationParameters": "Release documentation: all recordings in medication OFF and stimulation OFF. Percept session stimulation status in this export: initial OFF, final OFF.",
+  "ElectricalStimulation": false
+}

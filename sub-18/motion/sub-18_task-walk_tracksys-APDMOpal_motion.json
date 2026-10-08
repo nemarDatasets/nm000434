@@ -1,0 +1,18 @@
+{
+  "TaskName": "walk",
+  "TaskDescription": "Walking through a narrow corridor as a mono task (about 240 s), medication OFF, stimulation OFF (release documentation)",
+  "SamplingFrequency": 128.0,
+  "TrackingSystemName": "APDM Opal",
+  "Manufacturer": "APDM",
+  "ManufacturersModelName": "Opal",
+  "RecordingType": "continuous",
+  "RecordingDuration": 290.609375,
+  "MotionChannelCount": 42,
+  "ACCELChannelCount": 9,
+  "GYROChannelCount": 9,
+  "MAGNChannelCount": 9,
+  "ORNTChannelCount": 12,
+  "MISCChannelCount": 3,
+  "TrackedPointsCount": 3,
+  "SoftwareFilters": "n/a"
+}

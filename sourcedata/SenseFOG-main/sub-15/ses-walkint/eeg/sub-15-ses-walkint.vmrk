@@ -1,0 +1,63 @@
+Brain Vision Data Exchange Marker File, Version 1.0
+
+[Common Infos]
+Codepage=UTF-8
+DataFile=PD15_interfere.eeg
+
+[Marker Infos]
+; Each entry: Mk<Marker number>=<Type>,<Description>,<Position in data points>,
+; <Size in data points>, <Channel number (0 = marker is related to all channels)>
+; Fields are delimited by commas, some fields might be omitted (empty).
+; Commas in type or description text are coded as "\1".
+Mk1=New Segment,,1,1,0,20220901110918815503
+Mk2=Comment,no USB Connection to actiCAP,1,1,0
+Mk3=Moblab,M  1,3379,1,0
+Mk4=Toggle,T  1_off,40742,1,0
+Mk5=Toggle,T  1_on,41194,1,0
+Mk6=Toggle,T  1_off,42651,1,0
+Mk7=Toggle,T  1_on,43152,1,0
+Mk8=Toggle,T  1_off,47885,1,0
+Mk9=Toggle,T  1_on,48043,1,0
+Mk10=Toggle,T  1_off,59237,1,0
+Mk11=Toggle,T  1_on,60109,1,0
+Mk12=Toggle,T  1_off,60998,1,0
+Mk13=Toggle,T  1_on,61387,1,0
+Mk14=Toggle,T  1_off,61582,1,0
+Mk15=Toggle,T  1_on,61912,1,0
+Mk16=Toggle,T  1_off,69337,1,0
+Mk17=Toggle,T  1_on,69538,1,0
+Mk18=Toggle,T  1_off,71735,1,0
+Mk19=Toggle,T  1_on,71988,1,0
+Mk20=Toggle,T  1_off,81333,1,0
+Mk21=Toggle,T  1_on,81425,1,0
+Mk22=Toggle,T  1_off,89527,1,0
+Mk23=Toggle,T  1_on,89650,1,0
+Mk24=Toggle,T  1_off,157044,1,0
+Mk25=Toggle,T  1_on,157047,1,0
+Mk26=Toggle,T  1_off,161588,1,0
+Mk27=Toggle,T  1_on,162222,1,0
+Mk28=Toggle,T  1_off,165826,1,0
+Mk29=Toggle,T  1_on,166113,1,0
+Mk30=Toggle,T  1_off,189317,1,0
+Mk31=Toggle,T  1_on,189731,1,0
+Mk32=Toggle,T  1_off,206894,1,0
+Mk33=Toggle,T  1_on,207089,1,0
+Mk34=Toggle,T  1_off,213212,1,0
+Mk35=Toggle,T  1_on,213471,1,0
+Mk36=Toggle,T  1_off,238836,1,0
+Mk37=Toggle,T  1_on,239013,1,0
+Mk38=Toggle,T  1_off,240344,1,0
+Mk39=Toggle,T  1_on,240627,1,0
+Mk40=Toggle,T  1_off,245986,1,0
+Mk41=Toggle,T  1_on,246533,1,0
+Mk42=Toggle,T  1_off,253402,1,0
+Mk43=Toggle,T  1_on,253955,1,0
+Mk44=Toggle,T  1_off,272442,1,0
+Mk45=Toggle,T  1_on,272448,1,0
+Mk46=Toggle,T  1_off,274934,1,0
+Mk47=Toggle,T  1_on,275140,1,0
+Mk48=Toggle,T  1_off,276592,1,0
+Mk49=Toggle,T  1_on,277073,1,0
+Mk50=Toggle,T  1_off,278405,1,0
+Mk51=Toggle,T  1_on,278531,1,0
+Mk52=Moblab,M  1,289028,1,0

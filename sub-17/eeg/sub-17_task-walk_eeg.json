@@ -1,0 +1,25 @@
+{
+  "TaskName": "walk",
+  "TaskDescription": "Walking through a narrow corridor as a mono task (about 240 s), medication OFF, stimulation OFF (release documentation)",
+  "SamplingFrequency": 1000.0,
+  "PowerLineFrequency": 50,
+  "SoftwareFilters": "n/a",
+  "HardwareFilters": {
+    "Amplifier": {
+      "LowCutoffTimeConstant_s": "10",
+      "HighCutoff_Hz": "1000",
+      "Notch": "Off",
+      "Description": "BrainVision Recorder amplifier setup listed in the vhdr [Comment] section"
+    }
+  },
+  "EEGReference": "n/a (not stated in the release)",
+  "Manufacturer": "Brain Products",
+  "SoftwareVersions": "BrainVision Recorder Professional   -   V. 1.20.0506",
+  "RecordingType": "continuous",
+  "RecordingDuration": 291.7,
+  "EEGChannelCount": 48,
+  "EMGChannelCount": 8,
+  "MiscChannelCount": 2,
+  "EOGChannelCount": 0,
+  "ECGChannelCount": 0
+}

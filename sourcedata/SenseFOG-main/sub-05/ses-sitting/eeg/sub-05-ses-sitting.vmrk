@@ -1,0 +1,43 @@
+Brain Vision Data Exchange Marker File, Version 1.0
+
+[Common Infos]
+Codepage=UTF-8
+DataFile=PD05_sit.eeg
+
+[Marker Infos]
+; Each entry: Mk<Marker number>=<Type>,<Description>,<Position in data points>,
+; <Size in data points>, <Channel number (0 = marker is related to all channels)>
+; Fields are delimited by commas, some fields might be omitted (empty).
+; Commas in type or description text are coded as "\1".
+Mk1=New Segment,,1,1,0,20101101042838057342
+Mk2=Comment,no USB Connection to actiCAP,1,1,0
+Mk3=Moblab,M  1,2926,1,0
+Mk4=Toggle,T  1_on,9172,1,0
+Mk5=Toggle,T  1_off,18548,1,0
+Mk6=Toggle,T  1_on,18879,1,0
+Mk7=Toggle,T  1_off,41326,1,0
+Mk8=Toggle,T  1_on,41612,1,0
+Mk9=Toggle,T  1_off,41842,1,0
+Mk10=Toggle,T  1_on,42021,1,0
+Mk11=Toggle,T  1_off,44445,1,0
+Mk12=Toggle,T  1_on,45265,1,0
+Mk13=Toggle,T  1_off,45569,1,0
+Mk14=Toggle,T  1_on,45781,1,0
+Mk15=Toggle,T  1_off,46295,1,0
+Mk16=Toggle,T  1_on,46666,1,0
+Mk17=Toggle,T  1_off,52331,1,0
+Mk18=Toggle,T  1_on,52564,1,0
+Mk19=Toggle,T  1_off,53126,1,0
+Mk20=Toggle,T  1_on,53425,1,0
+Mk21=Toggle,T  1_off,55538,1,0
+Mk22=Toggle,T  1_on,55972,1,0
+Mk23=Toggle,T  1_off,60752,1,0
+Mk24=Toggle,T  1_on,61010,1,0
+Mk25=Toggle,T  1_off,93652,1,0
+Mk26=Toggle,T  1_on,94220,1,0
+Mk27=Toggle,T  1_off,119361,1,0
+Mk28=Moblab,M  1,121469,1,0
+Mk29=Toggle,T  1_on,124776,1,0
+Mk30=Toggle,T  1_off,125127,1,0
+Mk31=Toggle,T  1_on,126038,1,0
+Mk32=Toggle,T  1_off,128062,1,0

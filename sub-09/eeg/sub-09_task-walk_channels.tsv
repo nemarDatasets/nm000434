@@ -1,0 +1,59 @@
+name	type	units	description	status
+FP1	EEG	µV	scalp EEG	good
+FP2	EEG	µV	scalp EEG	good
+F7	EEG	µV	scalp EEG	good
+F3	EEG	µV	scalp EEG	good
+Fz	EEG	µV	scalp EEG	good
+F4	EEG	µV	scalp EEG	good
+F8	EEG	µV	scalp EEG	good
+FC5	EEG	µV	scalp EEG	good
+FC1	EEG	µV	scalp EEG	good
+FC2	EEG	µV	scalp EEG	good
+FC6	EEG	µV	scalp EEG	good
+T7	EEG	µV	scalp EEG	good
+C3	EEG	µV	scalp EEG	good
+Cz	EEG	µV	scalp EEG	good
+C4	EEG	µV	scalp EEG	good
+T8	EEG	µV	scalp EEG	good
+CP5	EEG	µV	scalp EEG	good
+CP1	EEG	µV	scalp EEG	good
+CP2	EEG	µV	scalp EEG	good
+CP6	EEG	µV	scalp EEG	good
+P7	EEG	µV	scalp EEG	good
+P3	EEG	µV	scalp EEG	good
+P1	EEG	µV	scalp EEG	good
+Pz	EEG	µV	scalp EEG	good
+P2	EEG	µV	scalp EEG	good
+P4	EEG	µV	scalp EEG	good
+P8	EEG	µV	scalp EEG	good
+PO3	EEG	µV	scalp EEG	good
+PO4	EEG	µV	scalp EEG	good
+O1	EEG	µV	scalp EEG	good
+Oz	EEG	µV	scalp EEG	good
+O2	EEG	µV	scalp EEG	good
+AF3	EEG	µV	scalp EEG	good
+AF4	EEG	µV	scalp EEG	good
+F5	EEG	µV	scalp EEG	good
+F1	EEG	µV	scalp EEG	good
+F2	EEG	µV	scalp EEG	good
+F6	EEG	µV	scalp EEG	good
+FC3	EEG	µV	scalp EEG	good
+FCz	EEG	µV	scalp EEG	good
+FC4	EEG	µV	scalp EEG	good
+C5	EEG	µV	scalp EEG	good
+C1	EEG	µV	scalp EEG	good
+C2	EEG	µV	scalp EEG	good
+C6	EEG	µV	scalp EEG	good
+CP3	EEG	µV	scalp EEG	good
+CPz	EEG	µV	scalp EEG	good
+CP4	EEG	µV	scalp EEG	good
+TA_L1	EMG	µV	surface EMG channel as labelled in the header (TA/GA, left/right; abbreviations not expanded in the release)	good
+TA_L2	EMG	µV	surface EMG channel as labelled in the header (TA/GA, left/right; abbreviations not expanded in the release)	good
+GA_L1	EMG	µV	surface EMG channel as labelled in the header (TA/GA, left/right; abbreviations not expanded in the release)	good
+GA_L2	EMG	µV	surface EMG channel as labelled in the header (TA/GA, left/right; abbreviations not expanded in the release)	good
+TA_R1	EMG	µV	surface EMG channel as labelled in the header (TA/GA, left/right; abbreviations not expanded in the release)	good
+TA_R2	EMG	µV	surface EMG channel as labelled in the header (TA/GA, left/right; abbreviations not expanded in the release)	good
+GA_R1	EMG	µV	surface EMG channel as labelled in the header (TA/GA, left/right; abbreviations not expanded in the release)	good
+GA_R2	EMG	µV	surface EMG channel as labelled in the header (TA/GA, left/right; abbreviations not expanded in the release)	good
+IPG_1	MISC	µV	channel labelled IPG in the header (the release aligns EEG, LFP and IMU on the stimulation artefact at the start of each recording)	good
+IPG_2	MISC	µV	channel labelled IPG in the header (the release aligns EEG, LFP and IMU on the stimulation artefact at the start of each recording)	good

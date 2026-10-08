@@ -1,0 +1,3 @@
+name	type	units	low_cutoff	high_cutoff	sampling_frequency	group	status	status_description	description
+ONE_THREE_LEFT	DBS	µV	n/a	n/a	250.0	LEFT	good	n/a	Percept BrainSense TimeDomain stream ONE_THREE_LEFT (bipolar pair of contact levels named in the label; left STN lead LEAD_B33015); Percept Gain field 227
+ONE_THREE_RIGHT	DBS	µV	n/a	n/a	250.0	RIGHT	good	n/a	Percept BrainSense TimeDomain stream ONE_THREE_RIGHT (bipolar pair of contact levels named in the label; right STN lead LEAD_B33015); Percept Gain field 228

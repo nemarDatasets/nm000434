@@ -1,0 +1,43 @@
+name	component	type	tracked_point	units	sampling_frequency	description
+LeftLeg_ACCEL_x	x	ACCEL	LeftLeg	m/s^2	128.0	APDM Opal SI-001710 (Left Leg) Calibrated/Accelerometers
+LeftLeg_ACCEL_y	y	ACCEL	LeftLeg	m/s^2	128.0	APDM Opal SI-001710 (Left Leg) Calibrated/Accelerometers
+LeftLeg_ACCEL_z	z	ACCEL	LeftLeg	m/s^2	128.0	APDM Opal SI-001710 (Left Leg) Calibrated/Accelerometers
+LeftLeg_GYRO_x	x	GYRO	LeftLeg	rad/s	128.0	APDM Opal SI-001710 (Left Leg) Calibrated/Gyroscopes
+LeftLeg_GYRO_y	y	GYRO	LeftLeg	rad/s	128.0	APDM Opal SI-001710 (Left Leg) Calibrated/Gyroscopes
+LeftLeg_GYRO_z	z	GYRO	LeftLeg	rad/s	128.0	APDM Opal SI-001710 (Left Leg) Calibrated/Gyroscopes
+LeftLeg_MAGN_x	x	MAGN	LeftLeg	µT	128.0	APDM Opal SI-001710 (Left Leg) Calibrated/Magnetometers
+LeftLeg_MAGN_y	y	MAGN	LeftLeg	µT	128.0	APDM Opal SI-001710 (Left Leg) Calibrated/Magnetometers
+LeftLeg_MAGN_z	z	MAGN	LeftLeg	µT	128.0	APDM Opal SI-001710 (Left Leg) Calibrated/Magnetometers
+LeftLeg_ORNT_q1	n/a	ORNT	LeftLeg	n/a	128.0	APDM Opal SI-001710 (Left Leg) Calibrated/Orientation column 1 of the stored quaternion (order as stored)
+LeftLeg_ORNT_q2	n/a	ORNT	LeftLeg	n/a	128.0	APDM Opal SI-001710 (Left Leg) Calibrated/Orientation column 2 of the stored quaternion (order as stored)
+LeftLeg_ORNT_q3	n/a	ORNT	LeftLeg	n/a	128.0	APDM Opal SI-001710 (Left Leg) Calibrated/Orientation column 3 of the stored quaternion (order as stored)
+LeftLeg_ORNT_q4	n/a	ORNT	LeftLeg	n/a	128.0	APDM Opal SI-001710 (Left Leg) Calibrated/Orientation column 4 of the stored quaternion (order as stored)
+LeftLeg_TEMP	n/a	MISC	LeftLeg	°C	128.0	APDM Opal SI-001710 (Left Leg) Calibrated/Temperature
+Lumbar_ACCEL_x	x	ACCEL	Lumbar	m/s^2	128.0	APDM Opal SI-001726 (Lumbar) Calibrated/Accelerometers
+Lumbar_ACCEL_y	y	ACCEL	Lumbar	m/s^2	128.0	APDM Opal SI-001726 (Lumbar) Calibrated/Accelerometers
+Lumbar_ACCEL_z	z	ACCEL	Lumbar	m/s^2	128.0	APDM Opal SI-001726 (Lumbar) Calibrated/Accelerometers
+Lumbar_GYRO_x	x	GYRO	Lumbar	rad/s	128.0	APDM Opal SI-001726 (Lumbar) Calibrated/Gyroscopes
+Lumbar_GYRO_y	y	GYRO	Lumbar	rad/s	128.0	APDM Opal SI-001726 (Lumbar) Calibrated/Gyroscopes
+Lumbar_GYRO_z	z	GYRO	Lumbar	rad/s	128.0	APDM Opal SI-001726 (Lumbar) Calibrated/Gyroscopes
+Lumbar_MAGN_x	x	MAGN	Lumbar	µT	128.0	APDM Opal SI-001726 (Lumbar) Calibrated/Magnetometers
+Lumbar_MAGN_y	y	MAGN	Lumbar	µT	128.0	APDM Opal SI-001726 (Lumbar) Calibrated/Magnetometers
+Lumbar_MAGN_z	z	MAGN	Lumbar	µT	128.0	APDM Opal SI-001726 (Lumbar) Calibrated/Magnetometers
+Lumbar_ORNT_q1	n/a	ORNT	Lumbar	n/a	128.0	APDM Opal SI-001726 (Lumbar) Calibrated/Orientation column 1 of the stored quaternion (order as stored)
+Lumbar_ORNT_q2	n/a	ORNT	Lumbar	n/a	128.0	APDM Opal SI-001726 (Lumbar) Calibrated/Orientation column 2 of the stored quaternion (order as stored)
+Lumbar_ORNT_q3	n/a	ORNT	Lumbar	n/a	128.0	APDM Opal SI-001726 (Lumbar) Calibrated/Orientation column 3 of the stored quaternion (order as stored)
+Lumbar_ORNT_q4	n/a	ORNT	Lumbar	n/a	128.0	APDM Opal SI-001726 (Lumbar) Calibrated/Orientation column 4 of the stored quaternion (order as stored)
+Lumbar_TEMP	n/a	MISC	Lumbar	°C	128.0	APDM Opal SI-001726 (Lumbar) Calibrated/Temperature
+RightLeg_ACCEL_x	x	ACCEL	RightLeg	m/s^2	128.0	APDM Opal SI-001683 (Right Leg) Calibrated/Accelerometers
+RightLeg_ACCEL_y	y	ACCEL	RightLeg	m/s^2	128.0	APDM Opal SI-001683 (Right Leg) Calibrated/Accelerometers
+RightLeg_ACCEL_z	z	ACCEL	RightLeg	m/s^2	128.0	APDM Opal SI-001683 (Right Leg) Calibrated/Accelerometers
+RightLeg_GYRO_x	x	GYRO	RightLeg	rad/s	128.0	APDM Opal SI-001683 (Right Leg) Calibrated/Gyroscopes
+RightLeg_GYRO_y	y	GYRO	RightLeg	rad/s	128.0	APDM Opal SI-001683 (Right Leg) Calibrated/Gyroscopes
+RightLeg_GYRO_z	z	GYRO	RightLeg	rad/s	128.0	APDM Opal SI-001683 (Right Leg) Calibrated/Gyroscopes
+RightLeg_MAGN_x	x	MAGN	RightLeg	µT	128.0	APDM Opal SI-001683 (Right Leg) Calibrated/Magnetometers
+RightLeg_MAGN_y	y	MAGN	RightLeg	µT	128.0	APDM Opal SI-001683 (Right Leg) Calibrated/Magnetometers
+RightLeg_MAGN_z	z	MAGN	RightLeg	µT	128.0	APDM Opal SI-001683 (Right Leg) Calibrated/Magnetometers
+RightLeg_ORNT_q1	n/a	ORNT	RightLeg	n/a	128.0	APDM Opal SI-001683 (Right Leg) Calibrated/Orientation column 1 of the stored quaternion (order as stored)
+RightLeg_ORNT_q2	n/a	ORNT	RightLeg	n/a	128.0	APDM Opal SI-001683 (Right Leg) Calibrated/Orientation column 2 of the stored quaternion (order as stored)
+RightLeg_ORNT_q3	n/a	ORNT	RightLeg	n/a	128.0	APDM Opal SI-001683 (Right Leg) Calibrated/Orientation column 3 of the stored quaternion (order as stored)
+RightLeg_ORNT_q4	n/a	ORNT	RightLeg	n/a	128.0	APDM Opal SI-001683 (Right Leg) Calibrated/Orientation column 4 of the stored quaternion (order as stored)
+RightLeg_TEMP	n/a	MISC	RightLeg	°C	128.0	APDM Opal SI-001683 (Right Leg) Calibrated/Temperature

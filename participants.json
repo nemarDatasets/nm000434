@@ -1,0 +1,12 @@
+{
+  "sex": {
+    "Description": "PatientGender field of the subject's Medtronic Percept exports (n/a where the device field is UNKNOWN or absent)",
+    "Levels": {
+      "M": "male",
+      "F": "female"
+    }
+  },
+  "diagnosis": {
+    "Description": "Release documentation: idiopathic Parkinson's disease, bilateral STN-DBS with Medtronic Percept"
+  }
+}

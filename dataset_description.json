@@ -1,0 +1,37 @@
+{
+  "Name": "SenseFOG: subthalamic LFP (Medtronic Percept), EEG/EMG and IMU kinematics during sitting, standing, walking, stopping and freezing of gait in Parkinson's disease",
+  "BIDSVersion": "1.10.0",
+  "DatasetType": "raw",
+  "License": "CC-BY-4.0",
+  "Authors": [
+    "Philipp Klocke",
+    "Moritz Loeffler",
+    "Daniel Weiss"
+  ],
+  "HowToAcknowledge": "Cite Klocke P, Loeffler M, Weiss D (2024), 'Supraspinal circuits contribute to the failure of antagonistic inhibition and freezing of gait in Parkinson's disease', Mendeley Data, V1, doi:10.17632/c9ckcvjxc7.1, and the associated article.",
+  "ReferencesAndLinks": [
+    "https://doi.org/10.17632/c9ckcvjxc7.1",
+    "https://github.com/PKlocke/SenseFOG-Documentation"
+  ],
+  "EthicsApprovals": [
+    "Ethics Committee of Tübingen University (166/2020BO1), as stated in the release documentation"
+  ],
+  "Keywords": [
+    "Parkinson's disease",
+    "freezing of gait",
+    "subthalamic nucleus",
+    "local field potential",
+    "deep brain stimulation",
+    "Medtronic Percept",
+    "EEG",
+    "EMG",
+    "IMU",
+    "gait"
+  ],
+  "GeneratedBy": [
+    {
+      "Name": "b3w11_convert_sensefog.py",
+      "Description": "Repackaging of the Mendeley release into BIDS with unchanged signal values; scrubbed originals in sourcedata/. Code in code/."
+    }
+  ]
+}
