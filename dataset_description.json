@@ -33,5 +33,7 @@
       "Name": "b3w11_convert_sensefog.py",
       "Description": "Repackaging of the Mendeley release into BIDS with unchanged signal values; scrubbed originals in sourcedata/. Code in code/."
     }
-  ]
+  ],
+  "DatasetDOI": "10.82901/nemar.nm000434",
+  "Version": "1.0.0"
 }
