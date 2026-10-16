@@ -1,5 +1,5 @@
 {
-  "Name": "SenseFOG: subthalamic LFP (Medtronic Percept), EEG/EMG and IMU kinematics during sitting, standing, walking, stopping and freezing of gait in Parkinson's disease",
+  "Name": "Klocke-2024-supraspinal-10.1093/brain/awae223",
   "BIDSVersion": "1.10.0",
   "DatasetType": "raw",
   "License": "CC-BY-4.0",
@@ -35,5 +35,5 @@
     }
   ],
   "DatasetDOI": "10.82901/nemar.nm000434",
-  "Version": "1.0.0"
+  "Version": "1.0.1"
 }
