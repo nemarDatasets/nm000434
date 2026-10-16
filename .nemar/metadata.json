@@ -1,9 +1,9 @@
 {
   "version": "2.0",
   "pipeline_stage": "validated",
-  "title": "SenseFOG: subthalamic LFP (Medtronic Percept), EEG/EMG and IMU kinematics during sitting, standing, walking, stopping and freezing of gait in Parkinson's disease",
-  "description": "This dataset contains multimodal recordings from 12 patients with idiopathic Parkinson's disease and bilateral subthalamic deep brain stimulation (Medtronic Percept PC). Recordings were made during sitting, standing, walking through a narrow corridor, walking with self-initiated stops and dual-task walking, after overnight withdrawal of dopaminergic medication and with stimulation OFF. Signals include bipolar subthalamic local field potentials, 48-channel scalp EEG with surface EMG, and inertial sensor kinematics, supporting investigation of supraspinal mechanisms of freezing of gait.",
-  "methods_description": "Bipolar STN local field potentials were streamed from the Medtronic Percept (BrainSense, 250 Hz). Scalp EEG (48 channels) with 8 surface EMG channels and 2 IPG channels was recorded with Brain Products amplifiers at 1000 Hz. Three APDM Opal inertial sensors (lumbar spine and both legs/feet) recorded at 128 Hz. Participants performed sitting, standing, corridor walking, walking with stops and dual-task (serial subtraction) walking at University Hospital Tübingen.",
+  "title": "Klocke-2024-supraspinal-10.1093/brain/awae223",
+  "description": "This dataset contains multimodal recordings from 12 patients with idiopathic Parkinson's disease and bilateral subthalamic nucleus deep brain stimulation (Medtronic Percept PC). It includes bipolar STN local field potentials, 48-channel scalp EEG with surface EMG, and inertial sensor data. Recordings were made during sitting, standing, walking, walking with stops and dual-task walking, after overnight withdrawal of dopaminergic medication with stimulation off. The data support research on supraspinal mechanisms of freezing of gait.",
+  "methods_description": "STN local field potentials were streamed from the Percept BrainSense at 250 Hz. Scalp EEG (48 channels) and 8 surface EMG channels were recorded with a Brain Products system at 1000 Hz. Three APDM Opal inertial sensors (lumbar spine and both legs/feet) were sampled at 128 Hz. Patients were recorded off dopaminergic medication and with stimulation off while sitting, standing, walking through a narrow corridor, walking with self-initiated stops and walking with a serial subtraction dual task.",
   "license": "CC-BY-4.0",
   "dataset_type": "raw",
   "authors": {
@@ -20,30 +20,26 @@
       "value_uri": "http://id.nlm.nih.gov/mesh/D010300"
     },
     {
-      "term": "Deep Brain Stimulation",
-      "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D046690"
-    },
-    {
       "term": "Subthalamic Nucleus",
       "subject_scheme": "MeSH",
       "value_uri": "http://id.nlm.nih.gov/mesh/D020531"
     },
     {
-      "term": "Electroencephalography",
+      "term": "Deep Brain Stimulation",
       "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D004569"
-    },
-    {
-      "term": "Electromyography",
-      "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D004576"
+      "value_uri": "http://id.nlm.nih.gov/mesh/D046690"
     },
     {
       "term": "freezing of gait"
     },
     {
       "term": "local field potential"
+    },
+    {
+      "term": "EEG"
+    },
+    {
+      "term": "EMG"
     },
     {
       "term": "inertial measurement unit"
@@ -92,5 +88,5 @@
     ".vmrk",
     ".yml"
   ],
-  "source_hash": "a4f12127108984c9c9c4d8c67264e61c3aabf209a99a41d05525365a0e3a2fcd"
+  "source_hash": "ae5fc8d887baf4887bf5dac136d08e0e8f72a09b1d97e3785b6ae682cf7193e2"
 }
