@@ -1,0 +1,37 @@
+{
+  "onset": {
+    "Description": "Seconds from the first sample of this Percept LFP run, mapped from the authors' aligned time axis (see _note)",
+    "Units": "s"
+  },
+  "duration": {
+    "Description": "Segment rows: end - start from the authors' datafile (n/a if end < start); gait rows: 0",
+    "Units": "s"
+  },
+  "trial_type": {
+    "Description": "Segment label as written in the authors' datafile, or gait event",
+    "Levels": {
+      "Walk": "authors' walking segment (events_filt task 'Walk')",
+      "Selected_stop": "authors' self-selected stop segment",
+      "Selected stop": "authors' label variant (not selected by the authors' scripts, which match 'Selected_stop')",
+      "Selected_stop_start": "authors' label variant (not selected by the authors' scripts)",
+      "Freezing_walk": "authors' freezing-of-gait segment while walking",
+      "Freezing_walk_initiation": "authors' freezing segment at gait initiation",
+      "heel_strike": "GaitEvents Heelstrike_Loc",
+      "toe_off": "GaitEvents Toe_Off_Loc",
+      "midswing": "GaitEvents Midswing_Loc"
+    }
+  },
+  "foot": {
+    "Description": "Gait rows: right (GaitEvents.rf_events) or left (lf_events); n/a for segments"
+  },
+  "sample": {
+    "Description": "round(onset x 250), 0-based sample of this run"
+  },
+  "source": {
+    "Description": "datafile: subjectdata.events_filt in sub-XX-datafile.m of github.com/PKlocke/SenseFOG-Documentation (b87df3f), copied to code/fix-20261030_authors_timepoints.tsv; gaitfilt_cor: sourcedata .../motion/*_gaitfilt_cor.mat"
+  },
+  "datafile_index": {
+    "Description": "Segment rows: index i of events_filt.<task>(i) in the authors' datafile"
+  },
+  "_note": "fix-20261030 (code/fix-20261030_gait_events.py). Authors' artefact samples for this run (datafile task Walk): E = 10127 (EEG, 1 kHz, counted from the first 'M  1' marker), L = 8265 (LFP resampled to 1 kHz); E > L: the authors cut EEG and IMU by 1862 samples and subtract 1862 ms from the datafile segments, so onset = segment time - 1863 ms and gait time - 1 ms."
+}

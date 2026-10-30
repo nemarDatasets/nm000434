@@ -1,0 +1,723 @@
+[
+ {
+  "run": "sub-01_task-walk",
+  "datafile_task": "Walk",
+  "E": 4758,
+  "L": 31056,
+  "delay": 26298,
+  "cut": "LFP",
+  "ieeg_duration_s": 259.748,
+  "segments": 20,
+  "segments_bad_end": 0,
+  "gait": {
+   "right": {
+    "sensor_channel": "RightLeg_GYRO_y",
+    "midswing_checked": 184,
+    "midswing_within_16ms": 0.9836956521739131,
+    "median_abs_offset_ms": 0.5625000000009095,
+    "rows": 543
+   },
+   "left": {
+    "sensor_channel": "LeftLeg_GYRO_y",
+    "midswing_checked": 163,
+    "midswing_within_16ms": 0.9570552147239264,
+    "median_abs_offset_ms": 0.6250000000136424,
+    "rows": 480
+   }
+  },
+  "dropped_outside_run": 18,
+  "rows": 1043,
+  "status": "written"
+ },
+ {
+  "run": "sub-01_task-walkws",
+  "datafile_task": "WalkWS",
+  "E": 11919,
+  "L": 31813,
+  "delay": 19894,
+  "cut": "LFP",
+  "ieeg_duration_s": 186.248,
+  "segments": 21,
+  "segments_bad_end": 0,
+  "gait": {
+   "right": {
+    "sensor_channel": "RightLeg_GYRO_y",
+    "midswing_checked": 98,
+    "midswing_within_16ms": 0.9795918367346939,
+    "median_abs_offset_ms": 0.8437499999871534,
+    "rows": 294
+   },
+   "left": {
+    "sensor_channel": "LeftLeg_GYRO_y",
+    "midswing_checked": 86,
+    "midswing_within_16ms": 0.7674418604651163,
+    "median_abs_offset_ms": 0.8749999999970726,
+    "rows": 258
+   }
+  },
+  "dropped_outside_run": 0,
+  "rows": 573,
+  "status": "written"
+ },
+ {
+  "run": "sub-05_task-walkws",
+  "datafile_task": "WalkWS",
+  "E": 3883,
+  "L": 8885,
+  "delay": 5002,
+  "cut": "LFP",
+  "ieeg_duration_s": 122.748,
+  "segments": 10,
+  "segments_bad_end": 0,
+  "gait": {
+   "right": {
+    "sensor_channel": "RightFoot_GYRO_y",
+    "midswing_checked": 59,
+    "midswing_within_16ms": 0.9830508474576272,
+    "median_abs_offset_ms": 0.6874999999979536,
+    "rows": 177
+   },
+   "left": {
+    "sensor_channel": "LeftFoot_GYRO_y",
+    "midswing_checked": 51,
+    "midswing_within_16ms": 0.9607843137254902,
+    "median_abs_offset_ms": 0.5625000000000213,
+    "rows": 153
+   }
+  },
+  "dropped_outside_run": 0,
+  "rows": 340,
+  "status": "written"
+ },
+ {
+  "run": "sub-09_task-walk",
+  "datafile_task": "Walk",
+  "E": 19377,
+  "L": 12190,
+  "delay": 7187,
+  "cut": "EEG+IMU",
+  "ieeg_duration_s": 249.5,
+  "segments": 7,
+  "segments_bad_end": 0,
+  "gait": {
+   "right": {
+    "sensor_channel": "RightLeg_GYRO_y",
+    "midswing_checked": 191,
+    "midswing_within_16ms": 0.9895287958115183,
+    "median_abs_offset_ms": 1.6250000000184173,
+    "rows": 572
+   },
+   "left": {
+    "sensor_channel": "LeftLeg_GYRO_y",
+    "midswing_checked": 191,
+    "midswing_within_16ms": 0.9790575916230366,
+    "median_abs_offset_ms": 1.562499999998579,
+    "rows": 572
+   }
+  },
+  "dropped_outside_run": 2,
+  "rows": 1151,
+  "status": "written"
+ },
+ {
+  "run": "sub-09_task-walkws",
+  "datafile_task": "WalkWS",
+  "E": 20169,
+  "L": 16820,
+  "delay": 3349,
+  "cut": "EEG+IMU",
+  "ieeg_duration_s": 180.5,
+  "segments": 13,
+  "segments_bad_end": 0,
+  "gait": {
+   "right": {
+    "sensor_channel": "RightLeg_GYRO_y",
+    "midswing_checked": 192,
+    "midswing_within_16ms": 0.9427083333333334,
+    "median_abs_offset_ms": 2.156250000005855,
+    "rows": 558
+   },
+   "left": {
+    "sensor_channel": "LeftLeg_GYRO_y",
+    "midswing_checked": 170,
+    "midswing_within_16ms": 0.9647058823529412,
+    "median_abs_offset_ms": 1.8124999999997726,
+    "rows": 509
+   }
+  },
+  "dropped_outside_run": 19,
+  "rows": 1080,
+  "status": "written"
+ },
+ {
+  "run": "sub-11_task-walk",
+  "datafile_task": "Walk",
+  "E": 21735,
+  "L": 16344,
+  "delay": 5391,
+  "cut": "EEG+IMU",
+  "ieeg_duration_s": 387.252,
+  "segments": 18,
+  "segments_bad_end": 0,
+  "gait": {
+   "right": {
+    "sensor_channel": "RightLeg_GYRO_y",
+    "midswing_checked": 172,
+    "midswing_within_16ms": 0.9825581395348837,
+    "median_abs_offset_ms": 0.8124999999949978,
+    "rows": 516
+   },
+   "left": {
+    "sensor_channel": "LeftLeg_GYRO_y",
+    "midswing_checked": 185,
+    "midswing_within_16ms": 0.972972972972973,
+    "median_abs_offset_ms": 0.43750000000386535,
+    "rows": 555
+   }
+  },
+  "dropped_outside_run": 0,
+  "rows": 1089,
+  "status": "written"
+ },
+ {
+  "run": "sub-11_task-walkws",
+  "datafile_task": "WalkWS",
+  "E": 19943,
+  "L": 14826,
+  "delay": 5117,
+  "cut": "EEG+IMU",
+  "ieeg_duration_s": 227.248,
+  "segments": 18,
+  "segments_bad_end": 0,
+  "gait": {
+   "right": {
+    "sensor_channel": "RightLeg_GYRO_y",
+    "midswing_checked": 91,
+    "midswing_within_16ms": 0.9560439560439561,
+    "median_abs_offset_ms": 0.7500000000106866,
+    "rows": 273
+   },
+   "left": {
+    "sensor_channel": "LeftLeg_GYRO_y",
+    "midswing_checked": 90,
+    "midswing_within_16ms": 0.9777777777777777,
+    "median_abs_offset_ms": 0.5000000000023874,
+    "rows": 270
+   }
+  },
+  "dropped_outside_run": 0,
+  "rows": 561,
+  "status": "written"
+ },
+ {
+  "run": "sub-13_task-walk",
+  "datafile_task": "Walk",
+  "E": 29536,
+  "L": 23932,
+  "delay": 5604,
+  "cut": "EEG+IMU",
+  "ieeg_duration_s": 402.748,
+  "segments": 17,
+  "segments_bad_end": 0,
+  "gait": {
+   "right": {
+    "sensor_channel": "RightLeg_GYRO_y",
+    "midswing_checked": 207,
+    "midswing_within_16ms": 0.9951690821256038,
+    "median_abs_offset_ms": 0.49999999998817657,
+    "rows": 621
+   },
+   "left": {
+    "sensor_channel": "LeftLeg_GYRO_y",
+    "midswing_checked": 219,
+    "midswing_within_16ms": 0.8538812785388128,
+    "median_abs_offset_ms": 0.7500000000391083,
+    "rows": 657
+   }
+  },
+  "dropped_outside_run": 0,
+  "rows": 1295,
+  "status": "written"
+ },
+ {
+  "run": "sub-13_task-walkint",
+  "datafile_task": "WalkINT",
+  "E": 19216,
+  "L": 12709,
+  "delay": 6507,
+  "cut": "EEG+IMU",
+  "ieeg_duration_s": 406.5,
+  "segments": 15,
+  "segments_bad_end": 0,
+  "gait": {
+   "right": {
+    "sensor_channel": "RightLeg_GYRO_y",
+    "midswing_checked": 205,
+    "midswing_within_16ms": 0.9951219512195122,
+    "median_abs_offset_ms": 1.2499999999988631,
+    "rows": 615
+   },
+   "left": {
+    "sensor_channel": "LeftLeg_GYRO_y",
+    "midswing_checked": 224,
+    "midswing_within_16ms": 0.90625,
+    "median_abs_offset_ms": 1.8125000000139835,
+    "rows": 672
+   }
+  },
+  "dropped_outside_run": 0,
+  "rows": 1302,
+  "status": "written"
+ },
+ {
+  "run": "sub-13_task-walkws",
+  "datafile_task": "WalkWS",
+  "E": 25889,
+  "L": 16194,
+  "delay": 9695,
+  "cut": "EEG+IMU",
+  "ieeg_duration_s": 373.0,
+  "segments": 28,
+  "segments_bad_end": 1,
+  "gait": {
+   "right": {
+    "sensor_channel": "RightLeg_GYRO_y",
+    "midswing_checked": 166,
+    "midswing_within_16ms": 1.0,
+    "median_abs_offset_ms": 0.49999999998817657,
+    "rows": 498
+   },
+   "left": {
+    "sensor_channel": "LeftLeg_GYRO_y",
+    "midswing_checked": 183,
+    "midswing_within_16ms": 0.726775956284153,
+    "median_abs_offset_ms": 2.0000000000095497,
+    "rows": 549
+   }
+  },
+  "dropped_outside_run": 0,
+  "rows": 1075,
+  "status": "written"
+ },
+ {
+  "run": "sub-14_task-walkint_run-1",
+  "datafile_task": "WalkINT",
+  "E": 13379,
+  "L": 10723,
+  "delay": 2656,
+  "cut": "EEG+IMU",
+  "ieeg_duration_s": 220.752,
+  "segments": 5,
+  "segments_bad_end": 0,
+  "gait": {
+   "right": {
+    "sensor_channel": "RightLeg_GYRO_y",
+    "midswing_checked": 134,
+    "midswing_within_16ms": 1.0,
+    "median_abs_offset_ms": 1.5312499999957652,
+    "rows": 392
+   },
+   "left": {
+    "sensor_channel": "LeftLeg_GYRO_y",
+    "midswing_checked": 138,
+    "midswing_within_16ms": 0.9565217391304348,
+    "median_abs_offset_ms": 1.7500000000012506,
+    "rows": 405
+   }
+  },
+  "dropped_outside_run": 19,
+  "rows": 802,
+  "status": "written"
+ },
+ {
+  "run": "sub-14_task-walkint_run-2",
+  "datafile_task": "WalkINT_new",
+  "E": 10136,
+  "L": 8012,
+  "delay": 2124,
+  "cut": "EEG+IMU",
+  "ieeg_duration_s": 174.0,
+  "segments": 10,
+  "segments_bad_end": 0,
+  "gait": {
+   "right": {
+    "sensor_channel": "RightLeg_GYRO_y",
+    "midswing_checked": 110,
+    "midswing_within_16ms": 1.0,
+    "median_abs_offset_ms": 1.6875000000027285,
+    "rows": 312
+   },
+   "left": {
+    "sensor_channel": "LeftLeg_GYRO_y",
+    "midswing_checked": 118,
+    "midswing_within_16ms": 0.9152542372881356,
+    "median_abs_offset_ms": 2.093749999993122,
+    "rows": 342
+   }
+  },
+  "dropped_outside_run": 30,
+  "rows": 664,
+  "status": "written"
+ },
+ {
+  "run": "sub-14_task-walkws",
+  "datafile_task": "WalkWS",
+  "E": 11904,
+  "L": 10230,
+  "delay": 1674,
+  "cut": "EEG+IMU",
+  "ieeg_duration_s": 202.0,
+  "segments": 36,
+  "segments_bad_end": 0,
+  "gait": {
+   "right": {
+    "sensor_channel": "RightLeg_GYRO_y",
+    "midswing_checked": 114,
+    "midswing_within_16ms": 1.0,
+    "median_abs_offset_ms": 0.4375000000109708,
+    "rows": 342
+   },
+   "left": {
+    "sensor_channel": "LeftLeg_GYRO_y",
+    "midswing_checked": 122,
+    "midswing_within_16ms": 0.8770491803278688,
+    "median_abs_offset_ms": 1.2187500000049312,
+    "rows": 363
+   }
+  },
+  "dropped_outside_run": 3,
+  "rows": 741,
+  "status": "written"
+ },
+ {
+  "run": "sub-15_task-walk",
+  "datafile_task": "Walk",
+  "E": 13170,
+  "L": 9815,
+  "delay": 3355,
+  "cut": "EEG+IMU",
+  "ieeg_duration_s": 345.0,
+  "segments": 21,
+  "segments_bad_end": 0,
+  "gait": {
+   "right": {
+    "sensor_channel": "RightLeg_GYRO_y",
+    "midswing_checked": 259,
+    "midswing_within_16ms": 0.9845559845559846,
+    "median_abs_offset_ms": 1.187500000000341,
+    "rows": 777
+   },
+   "left": {
+    "sensor_channel": "LeftLeg_GYRO_y",
+    "midswing_checked": 212,
+    "midswing_within_16ms": 0.08018867924528301,
+    "median_abs_offset_ms": 236.3437500000103,
+    "rows": 0,
+    "note": "not written: midswings do not match this foot's gyroscope"
+   }
+  },
+  "dropped_outside_run": 0,
+  "rows": 798,
+  "status": "written"
+ },
+ {
+  "run": "sub-15_task-walkint",
+  "datafile_task": "WalkINT",
+  "E": 11455,
+  "L": 8753,
+  "delay": 2702,
+  "cut": "EEG+IMU",
+  "ieeg_duration_s": 276.0,
+  "segments": 21,
+  "segments_bad_end": 0,
+  "gait": {
+   "right": {
+    "sensor_channel": "RightLeg_GYRO_y",
+    "midswing_checked": 183,
+    "midswing_within_16ms": 0.9890710382513661,
+    "median_abs_offset_ms": 1.1874999999861302,
+    "rows": 549
+   },
+   "left": {
+    "sensor_channel": "LeftLeg_GYRO_y",
+    "midswing_checked": 214,
+    "midswing_within_16ms": 0.9112149532710281,
+    "median_abs_offset_ms": 1.0312500000182467,
+    "rows": 642
+   }
+  },
+  "dropped_outside_run": 0,
+  "rows": 1212,
+  "status": "written"
+ },
+ {
+  "run": "sub-15_task-walkws",
+  "datafile_task": "WalkWS",
+  "E": 12428,
+  "L": 10702,
+  "delay": 1726,
+  "cut": "EEG+IMU",
+  "ieeg_duration_s": 259.0,
+  "segments": 28,
+  "segments_bad_end": 0,
+  "gait": {
+   "right": {
+    "sensor_channel": "RightLeg_GYRO_y",
+    "midswing_checked": 149,
+    "midswing_within_16ms": 1.0,
+    "median_abs_offset_ms": 0.5625000000080149,
+    "rows": 444
+   },
+   "left": {
+    "sensor_channel": "LeftLeg_GYRO_y",
+    "midswing_checked": 153,
+    "midswing_within_16ms": 0.9673202614379085,
+    "median_abs_offset_ms": 0.49999999998817657,
+    "rows": 457
+   }
+  },
+  "dropped_outside_run": 5,
+  "rows": 929,
+  "status": "written"
+ },
+ {
+  "run": "sub-17_task-walk",
+  "datafile_task": "Walk",
+  "E": 14030,
+  "L": 12028,
+  "delay": 2002,
+  "cut": "EEG+IMU",
+  "ieeg_duration_s": 275.248,
+  "segments": 12,
+  "segments_bad_end": 0,
+  "gait": {
+   "right": {
+    "sensor_channel": "RightLeg_GYRO_y",
+    "midswing_checked": 169,
+    "midswing_within_16ms": 0.9644970414201184,
+    "median_abs_offset_ms": 1.187500000000341,
+    "rows": 507
+   },
+   "left": {
+    "sensor_channel": "LeftLeg_GYRO_y",
+    "midswing_checked": 204,
+    "midswing_within_16ms": 0.9117647058823529,
+    "median_abs_offset_ms": 1.125000000001819,
+    "rows": 612
+   }
+  },
+  "dropped_outside_run": 0,
+  "rows": 1131,
+  "status": "written"
+ },
+ {
+  "run": "sub-17_task-walkws",
+  "datafile_task": "WalkWS",
+  "E": 12974,
+  "L": 10525,
+  "delay": 2449,
+  "cut": "EEG+IMU",
+  "ieeg_duration_s": 239.252,
+  "segments": 27,
+  "segments_bad_end": 0,
+  "gait": {
+   "right": {
+    "sensor_channel": "RightLeg_GYRO_y",
+    "midswing_checked": 155,
+    "midswing_within_16ms": 0.967741935483871,
+    "median_abs_offset_ms": 1.2499999999988631,
+    "rows": 465
+   },
+   "left": {
+    "sensor_channel": "LeftLeg_GYRO_y",
+    "midswing_checked": 149,
+    "midswing_within_16ms": 0.9865771812080537,
+    "median_abs_offset_ms": 0.5625000000009095,
+    "rows": 447
+   }
+  },
+  "dropped_outside_run": 0,
+  "rows": 939,
+  "status": "written"
+ },
+ {
+  "run": "sub-18_task-walk",
+  "datafile_task": "Walk",
+  "E": 10127,
+  "L": 8265,
+  "delay": 1862,
+  "cut": "EEG+IMU",
+  "ieeg_duration_s": 280.0,
+  "segments": 27,
+  "segments_bad_end": 0,
+  "gait": {
+   "right": {
+    "sensor_channel": "RightLeg_GYRO_y",
+    "midswing_checked": 202,
+    "midswing_within_16ms": 0.9851485148514851,
+    "median_abs_offset_ms": 0.6874999999837428,
+    "rows": 601
+   },
+   "left": {
+    "sensor_channel": "LeftLeg_GYRO_y",
+    "midswing_checked": 204,
+    "midswing_within_16ms": 0.8627450980392157,
+    "median_abs_offset_ms": 1.2812500000336513,
+    "rows": 606
+   }
+  },
+  "dropped_outside_run": 11,
+  "rows": 1234,
+  "status": "written"
+ },
+ {
+  "run": "sub-18_task-walkint",
+  "datafile_task": "WalkINT",
+  "E": 10520,
+  "L": 8546,
+  "delay": 1974,
+  "cut": "EEG+IMU",
+  "ieeg_duration_s": 201.5,
+  "segments": 18,
+  "segments_bad_end": 0,
+  "gait": {
+   "right": {
+    "sensor_channel": "RightLeg_GYRO_y",
+    "midswing_checked": 113,
+    "midswing_within_16ms": 0.9734513274336283,
+    "median_abs_offset_ms": 0.7499999999822649,
+    "rows": 333
+   },
+   "left": {
+    "sensor_channel": "LeftLeg_GYRO_y",
+    "midswing_checked": 127,
+    "midswing_within_16ms": 0.8661417322834646,
+    "median_abs_offset_ms": 1.8124999999997726,
+    "rows": 378
+   }
+  },
+  "dropped_outside_run": 9,
+  "rows": 729,
+  "status": "written"
+ },
+ {
+  "run": "sub-19_task-walk",
+  "datafile_task": "Walk",
+  "E": 9637,
+  "L": 8382,
+  "delay": 1255,
+  "cut": "EEG+IMU",
+  "ieeg_duration_s": 212.748,
+  "segments": 12,
+  "segments_bad_end": 0,
+  "gait": {
+   "right": {
+    "sensor_channel": "RightLeg_GYRO_y",
+    "midswing_checked": 163,
+    "midswing_within_16ms": 0.9938650306748467,
+    "median_abs_offset_ms": 1.187500000014552,
+    "rows": 486
+   },
+   "left": {
+    "sensor_channel": "LeftLeg_GYRO_y",
+    "midswing_checked": 142,
+    "midswing_within_16ms": 0.9366197183098591,
+    "median_abs_offset_ms": 1.125000000001819,
+    "rows": 426
+   }
+  },
+  "dropped_outside_run": 3,
+  "rows": 924,
+  "status": "written"
+ },
+ {
+  "run": "sub-19_task-walkws",
+  "datafile_task": "WalkWS",
+  "E": 9467,
+  "L": 8268,
+  "delay": 1199,
+  "cut": "EEG+IMU",
+  "ieeg_duration_s": 248.0,
+  "segments": 24,
+  "segments_bad_end": 0,
+  "gait": {
+   "right": {
+    "sensor_channel": "RightLeg_GYRO_y",
+    "midswing_checked": 160,
+    "midswing_within_16ms": 0.96875,
+    "median_abs_offset_ms": 1.1874999999719194,
+    "rows": 476
+   },
+   "left": {
+    "sensor_channel": "LeftLeg_GYRO_y",
+    "midswing_checked": 122,
+    "midswing_within_16ms": 0.9672131147540983,
+    "median_abs_offset_ms": 0.8125000000127613,
+    "rows": 366
+   }
+  },
+  "dropped_outside_run": 4,
+  "rows": 866,
+  "status": "written"
+ },
+ {
+  "run": "sub-20_task-walk",
+  "datafile_task": "Walk",
+  "E": 9278,
+  "L": 8329,
+  "delay": 949,
+  "cut": "EEG+IMU",
+  "ieeg_duration_s": 243.0,
+  "segments": 16,
+  "segments_bad_end": 0,
+  "gait": {
+   "right": {
+    "sensor_channel": "RightLeg_GYRO_y",
+    "midswing_checked": 218,
+    "midswing_within_16ms": 0.9954128440366973,
+    "median_abs_offset_ms": 1.9374999999968168,
+    "rows": 651
+   },
+   "left": {
+    "sensor_channel": "LeftLeg_GYRO_y",
+    "midswing_checked": 196,
+    "midswing_within_16ms": 0.9744897959183674,
+    "median_abs_offset_ms": 0.9062499999998863,
+    "rows": 582
+   }
+  },
+  "dropped_outside_run": 9,
+  "rows": 1249,
+  "status": "written"
+ },
+ {
+  "run": "sub-20_task-walkint",
+  "datafile_task": "WalkINT",
+  "E": 9230,
+  "L": 7704,
+  "delay": 1526,
+  "cut": "EEG+IMU",
+  "ieeg_duration_s": 344.752,
+  "segments": 7,
+  "segments_bad_end": 0,
+  "gait": {
+   "right": {
+    "sensor_channel": "RightLeg_GYRO_y",
+    "midswing_checked": 228,
+    "midswing_within_16ms": 0.9912280701754386,
+    "median_abs_offset_ms": 1.6562499999928093,
+    "rows": 684
+   },
+   "left": {
+    "sensor_channel": "LeftLeg_GYRO_y",
+    "midswing_checked": 183,
+    "midswing_within_16ms": 0.9781420765027322,
+    "median_abs_offset_ms": 1.2499999999988631,
+    "rows": 546
+   }
+  },
+  "dropped_outside_run": 3,
+  "rows": 1237,
+  "status": "written"
+ }
+]

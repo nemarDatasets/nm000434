@@ -38,6 +38,27 @@ sensors (lumbar spine and both legs/feet, 128 Hz).
   sitting (no time-domain stream). EEG, LFP and IMU are not resampled or aligned to each other here; the release
   aligns them on the stimulation artefact at the start of each recording.
 
+## Gait events in ieeg/ (Oct 2026)
+The walking-task iEEG runs (task walk, walkws, walkint; 24 runs) have an `events.tsv` with the authors' walking, stop and
+freezing segments and the heel strike, toe off and midswing times of both feet (22,964 rows: 431 segments,
+22,533 gait events; code/fix-20261030_gait_events.py, report code/fix-20261030_gait_events_report.json).
+- Sources: segments = `subjectdata.events_filt` hard-coded in the authors' `sub-XX-datafile.m`
+  (github.com/PKlocke/SenseFOG-Documentation, commit b87df3f; copied with the artefact samples to
+  code/fix-20261030_authors_timepoints.tsv); gait events = sourcedata `*_gaitfilt_cor.mat` (GaitEvents).
+- Time base: the authors align LFP, EEG and IMU on the stimulation-offset artefact with two hard-coded samples per run
+  (E: EEG at 1 kHz counted from the first `M  1` marker, which marks the IMU start; L: LFP resampled to 1 kHz) and cut the
+  earlier-starting stream by |L - E| samples (scripts 1.3-1.6). The onsets here undo that cut, so they are seconds from the
+  first sample of the BIDS ieeg run; each run's `events.json` gives E, L and the shift. Checked on the BIDS data: the LFP
+  offset artefact lies at (L - 1) / 1000 s and the IPG stimulation train in the EEG ends at the `M  1` sample + E (all 24
+  runs, within about 0.2 s, the precision of the manual marks); the authors' midswing times fall on the gyroscope peaks
+  of the same foot in the BIDS motion data (median 0.6-1.9 ms).
+- Not written: gait events of the left foot of sub-15 task-walk (its midswing times do not match the left sensor on any
+  of the tested time bases); 135 rows that fall outside the LFP run; sitting/standing runs (no events in the source);
+  sub-10 (no BIDS ieeg run; the release holds only its pre-aligned files). Labels are kept as the authors wrote them:
+  their scripts select 'Walk', 'Selected_stop' and 'Freezing_walk' ('Selected stop' and 'Selected_stop_start' occur
+  once or twice and are not used by them); one segment (sub-13 walkws, index 34) has an end before its start and gets
+  duration n/a.
+
 ## Privacy
 - Percept exports: every date (session, device clock, implant, date of birth, event logs, packet times) set to day
   01 of its month (year, month and time of day kept); free-text therapy group names removed. Patient name fields
